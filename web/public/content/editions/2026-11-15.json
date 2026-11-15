@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-15",
+  "title": "Tickende Atome und der erste Funke des Lebens",
+  "articles": [
+    {
+      "domain": "Biologie",
+      "lang": "en",
+      "headline": "Did life begin as a chemical cycle, long before genes existed?",
+      "summary": "Every living cell runs on metabolism: networks of reactions that capture energy and build complex molecules. Some researchers think such reactions came first, as self-sustaining cycles of simple molecules, and that RNA and DNA only arrived later. Their argument is that without a steady energy source, nothing could have produced the large molecules cells need. One proposed setting is the deep-sea hydrothermal vent, where hot, metal-rich water meets seawater and iron-sulfur minerals could act as catalysts. In 2020, a team recreated vent-like temperature and pressure in the lab and showed that carbon dioxide, hydrogen and nickel and iron minerals can form formate, acetate and pyruvate, the backbone of a pathway some microbes still use. That same year, another group produced similar chemistry in mild water without any metals, which points to a tepid pool instead. Nobody yet knows how such early reactions became stable enough to grow more complex.",
+      "whyItMatters": "The origin of life is often told as a story about genes. This view starts with energy instead, and it can be tested in a laboratory.",
+      "thinkQuestion": "Two experiments from the same year point to two different birthplaces. Does that weaken the metabolism-first idea, or strengthen it?",
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/"
+      }
+    },
+    {
+      "domain": "Physik & Chemie",
+      "lang": "de",
+      "headline": "Eine einzige Atomuhr soll auf zwei Höhen zugleich ticken",
+      "summary": "Nach Einsteins Relativitätstheorie vergeht die Zeit weiter oben im Schwerefeld etwas schneller als weiter unten. Sehr genaue Atomuhren weisen das schon bei einem Höhenunterschied von einem Zentimeter nach, allerdings immer durch den Vergleich zweier getrennter Uhren. Ein Physiker des Deutschen Zentrums für Luft- und Raumfahrt schlägt nun vor, den Effekt in einer einzigen Uhr zu messen. Möglich macht das die Quantenphysik: Ein Atom kann sich in einer Überlagerung zweier räumlich getrennter Wellenpakete befinden. Laserpulse sollen es auf zwei Wege in unterschiedlicher Höhe verteilen, erst danach wird die Uhr gestartet. Die beiden Teile sammeln verschieden viel Zeit an, und beim Zusammenführen müsste sich das im Messsignal zeigen. Weil sich in frei fallenden Atomen zwei Zeiteffekte gegenseitig aufheben, braucht es zwei Messungen mit unterschiedlichem Startzeitpunkt. Als Anlagen kämen zehn Meter hohe Atomfontänen infrage. Bisher ist das ein Messvorschlag, kein durchgeführtes Experiment.",
+      "whyItMatters": "Relativitätstheorie und Quantenphysik beschreiben die Welt sehr gut, aber meist in getrennten Bereichen. Hier träfen beide in einem einzigen Atom aufeinander.",
+      "thinkQuestion": "Was genau weiß man, wenn es einen gut durchgerechneten Messvorschlag gibt, aber noch keine Messung?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/physik/quantenuhr-soll-einsteins-zeitdehnung-gleichzeitig-auf-zwei-hoehen-testen/"
+      }
+    },
+    {
+      "domain": "Medizin",
+      "lang": "de",
+      "headline": "Warum der BMI allein nicht sagt, wer durch Übergewicht gefährdet ist",
+      "summary": "Der Body-Mass-Index setzt Gewicht und Körpergröße ins Verhältnis: Ab 25 gilt man als übergewichtig, ab 30 als adipös. Das Problem ist, dass der Wert weder die Fettmasse noch deren Verteilung erfasst. Sehr muskulöse Menschen können über 30 liegen, und Menschen mit viel Fettgewebe darunter, obwohl ihr Risiko erhöht ist. Fachleute empfehlen deshalb seit 2025, zusätzlich das Körperfett einzubeziehen. Eine in Nature veröffentlichte Studie hat das an den Daten von mehr als 844.000 Menschen durchgerechnet und neben dem BMI auch den Taillenumfang und das Verhältnis von Taille zu Körpergröße verwendet. Manche galten danach nicht mehr als adipös, andere kamen wegen ungesunder Fettverteilung neu dazu. Außerdem unterscheidet die Studie zwei Gruppen: präklinische Adipositas ohne Folgeerkrankungen und klinische Adipositas mit Erkrankungen wie Herz-Kreislauf-Problemen oder Diabetes.",
+      "whyItMatters": "Eine einfache Kennzahl ist praktisch, misst aber oft nur ungefähr das, worum es eigentlich geht. Das gilt weit über die Medizin hinaus.",
+      "thinkQuestion": "Welche Kennzahl in deinem Alltag (Noten, Schritte, Bildschirmzeit) misst etwas anderes als das, was du eigentlich wissen willst?",
+      "source": {
+        "name": "tagesschau Wissen",
+        "url": "https://www.tagesschau.de/wissen/adipositas-definition-bmi-100.html"
+      }
+    },
+    {
+      "domain": "Geografie",
+      "lang": "de",
+      "headline": "Wie Vulkane vor 450 Millionen Jahren eine Eiszeit begünstigt haben könnten",
+      "summary": "Vulkane gelten als Klimaheizer, weil sie Kohlendioxid ausstoßen. Auf lange Sicht können sie aber das Gegenteil bewirken. Forschende der China University of Geosciences haben Sedimentgesteine aus Südchina untersucht und mit Daten aus anderen Weltregionen verglichen. Sauerstoffisotope in fossilen Resten kleiner Meerestiere dienten als Thermometer, Quecksilber als Anzeiger für Vulkanismus, Strontiumisotope für die Verwitterung von Gestein. Das Ergebnis: Die Erde kühlte im Ordovizium nicht gleichmäßig ab, sondern in mindestens drei Schüben, der letzte vor etwa 445 Millionen Jahren. In mehreren dieser Phasen finden sich auch erhöhte Quecksilberwerte. Die Erklärung für den scheinbaren Widerspruch liegt in den Zeiträumen: Frisch freigelegter Basalt reagiert beim Verwittern mit CO₂ und bindet es über lange Zeit in Karbonatgestein. Was die Abkühlung wirklich antrieb, ist allerdings weiter umstritten, und die weltweite Verteilung der Ascheschichten passt nicht genau zu den drei Schüben.",
+      "whyItMatters": "Dieselbe Ursache kann kurzfristig wärmen und langfristig kühlen. Wer über Klima spricht, muss immer dazusagen, über welchen Zeitraum.",
+      "thinkQuestion": "Zwei Dinge treten in den Gesteinsschichten gleichzeitig auf. Welche Belege bräuchtest du, um zu glauben, dass das eine das andere verursacht hat?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/geowissen/vulkane-haben-vor-450-millionen-jahren-eine-eiszeit-ausgeloest/"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Gleichzeitig heißt nicht ursächlich",
+    "explanation": "Wenn zwei Dinge gemeinsam auftreten, liegt der Schluss nahe, dass das eine das andere bewirkt. Es gibt aber drei andere Möglichkeiten: Die Richtung ist umgekehrt, eine dritte Ursache steckt hinter beidem, oder es ist Zufall. Erst wenn ein plausibler Mechanismus dazukommt und die anderen Erklärungen schlechter passen, wird aus dem Zusammenhang ein Argument. Die Vulkan-Studie von heute zeigt, wie das sauber geht: Sie nennt den Mechanismus und sagt offen, wo die Daten nicht passen.",
+    "example": "An Tagen mit hohem Eisverkauf gibt es mehr Badeunfälle. Eis macht niemanden zum schlechteren Schwimmer, beides steigt mit der Hitze.",
+    "selfCheck": "Wann hast du zuletzt aus „immer wenn A, dann auch B“ geschlossen, dass A schuld ist, ohne eine dritte Ursache zu prüfen?"
+  },
+  "quiz": [
+    {
+      "question": "Was nehmen Vertreter der „Stoffwechsel zuerst“-Idee an?",
+      "options": [
+        "DNA entstand vor allen anderen Molekülen",
+        "Leben kam mit Meteoriten auf die Erde",
+        "Zellen entstanden vor jeder Chemie",
+        "Sich selbst erhaltende Reaktionskreisläufe gab es vor den Genen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nach dieser Sicht liefen einfache, sich selbst erhaltende Reaktionen ab, bevor RNA und DNA Information speicherten."
+    },
+    {
+      "question": "Was ist das Neue an der vorgeschlagenen Quantenuhr?",
+      "options": [
+        "Ein einzelnes Atom durchläuft zwei Höhen gleichzeitig",
+        "Sie kommt ohne Laser aus",
+        "Sie vergleicht zwei Uhren auf verschiedenen Kontinenten",
+        "Sie wurde bereits erfolgreich getestet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Statt zwei getrennte Uhren zu vergleichen, befindet sich ein Atom in einer Überlagerung zweier Wege auf unterschiedlicher Höhe."
+    },
+    {
+      "question": "Was erfasst der BMI nicht?",
+      "options": [
+        "Das Körpergewicht",
+        "Die Körpergröße",
+        "Die Verteilung des Körperfetts",
+        "Das Verhältnis von Gewicht zu Größe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Der BMI rechnet nur mit Gewicht und Größe, Fettmasse und Fettverteilung bleiben unsichtbar."
+    },
+    {
+      "question": "Warum kann Vulkanismus das Klima über lange Zeiträume abkühlen?",
+      "options": [
+        "Asche verdunkelt dauerhaft die Sonne",
+        "Verwitternder Basalt bindet CO₂ aus der Atmosphäre",
+        "Lava kühlt die Ozeane ab",
+        "Vulkane stoßen kein CO₂ aus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frisch freigelegter Basalt reagiert beim Verwittern mit CO₂, das so in Karbonatgestein gebunden wird."
+    }
+  ]
+}

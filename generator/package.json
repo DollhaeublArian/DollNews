@@ -1,0 +1,19 @@
+{
+  "name": "dollnews-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "candidates": "node src/candidates.ts",
+    "text": "node src/text.ts",
+    "publish": "node src/publish.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.12.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
