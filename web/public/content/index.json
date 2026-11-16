@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-16",
+    "title": "Maya-Metropole und Kunst im Streit",
+    "domains": [
+      "Länder & Kulturen",
+      "Geschichte",
+      "Sport",
+      "Wirtschaft"
+    ],
+    "headlines": [
+      "Van Goghs „Blühende Kastanienbäume“: Erben bestreiten Verkauf bei Sotheby’s",
+      "How Caracol's Excavators Overturned Old Myths About the Maya",
+      "Die Leopoldstadt: Wiege des österreichischen Fußballs",
+      "Mini-Windturbine „Marlene“ mit senkrechter Achse für bebaute Gebiete"
+    ],
+    "thinking": "Das eigene Weltbild auf andere übertragen",
+    "urls": [
+      "https://www.derstandard.at/story/3000000349307/juedische-erben-fordern-verkaufsstopp-eines-180-millionen-dollar-teuren-van-goghs?ref=rss",
+      "https://www.smithsonianmag.com/history/archaeologists-ancient-maya-metropolist-forest-belize-debunking-long-held-myth-about-mesoamerican-civilization-180989648/",
+      "https://www.derstandard.at/story/3000000348327/fussball-in-der-leopoldstadt-nur-in-england-gab-es-bessere-vereine?ref=rss",
+      "https://www.derstandard.at/story/3000000348933/wo-grosse-windraeder-keinen-platz-haben-soll-diese-mini-windturbine-helfen?ref=rss"
+    ]
+  },
+  {
     "date": "2026-11-15",
     "title": "Tickende Atome und der erste Funke des Lebens",
     "domains": [

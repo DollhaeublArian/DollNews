@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-16",
+  "title": "Maya-Metropole und Kunst im Streit",
+  "articles": [
+    {
+      "domain": "Länder & Kulturen",
+      "lang": "de",
+      "headline": "Van Goghs „Blühende Kastanienbäume“: Erben bestreiten Verkauf bei Sotheby’s",
+      "summary": "Ein Gemälde von Vincent van Gogh aus dem Jahr 1890, „Blühende Kastanienbäume“, soll an einem Mittwoch bei Sotheby’s in New York versteigert werden. Der Schätzwert liegt bei mindestens 180 Millionen Dollar, ohne Aufgeld. Insgesamt werden zwölf Kunstwerke angeboten, und das Auktionshaus erwartet dafür mindestens 450 Millionen Dollar. Es hat den Verkäufern diese Summe sogar unabhängig vom Ausgang der Auktion garantiert. Nun fordern jüdische Erben, den Verkauf zu stoppen. Streitpunkt dürfte ein Besitzerwechsel in der NS-Zeit sein. Hinter solchen Fällen steht die Frage, ob Kunstwerke damals unter Zwang oder Verfolgung den Besitzer wechselten und ob die Nachfahren der früheren Eigentümer deshalb Ansprüche haben. Der vorliegende Text nennt dazu nur wenige Details; wie der Streit ausgeht, ist offen.",
+      "whyItMatters": "Der Fall zeigt, dass die Herkunft eines Kunstwerks auch Jahrzehnte später über Verkauf und Eigentum mitentscheiden kann.",
+      "thinkQuestion": "Sollte bei einem Kunstwerk mit lückenloser, aber lange zurückliegender Besitzgeschichte das Interesse der Erben oder der Schutz des heutigen Käufers schwerer wiegen?",
+      "source": {
+        "name": "Der Standard Kultur",
+        "url": "https://www.derstandard.at/story/3000000349307/juedische-erben-fordern-verkaufsstopp-eines-180-millionen-dollar-teuren-van-goghs?ref=rss"
+      }
+    },
+    {
+      "domain": "Geschichte",
+      "lang": "en",
+      "headline": "How Caracol's Excavators Overturned Old Myths About the Maya",
+      "summary": "For centuries, ideas about the Maya came largely from Friar Diego de Landa, a 16th-century missionary who, by his own account, burned most Maya hieroglyphic books. He portrayed the Maya as poor peasants ruled by a harsh aristocracy, a two-class picture that archaeologist Arlen Chase says the Spaniards imposed from their own world. Later scholars saw the Maya as peaceful stargazers living in nearly empty ceremonial cities. Arlen and Diane Chase challenged this. At Santa Rita Corozal they found that many ordinary households owned imported obsidian, suggesting market trade rather than gifts from elites. Arriving at Caracol in Belize in 1987, they showed it once had more than 100,000 inhabitants. A carved disk found in 1986 recorded wars, including Caracol's victory over mighty Tikal. Matching evidence of Tikal's neglected monuments and Caracol's building boom supported that story, though many scholars first doubted it.",
+      "whyItMatters": "Our picture of the past depends on who wrote the sources and on which sites get dug; new excavations can overturn it.",
+      "thinkQuestion": "Which of your own assumptions about a distant culture might come from a single, biased source, and how would you test it?",
+      "source": {
+        "name": "Smithsonian History",
+        "url": "https://www.smithsonianmag.com/history/archaeologists-ancient-maya-metropolist-forest-belize-debunking-long-held-myth-about-mesoamerican-civilization-180989648/"
+      }
+    },
+    {
+      "domain": "Sport",
+      "lang": "de",
+      "headline": "Die Leopoldstadt: Wiege des österreichischen Fußballs",
+      "summary": "Der zweite Wiener Gemeindebezirk war einst das pulsierende Zentrum des österreichischen Fußballs. Dort fanden 1892 die ersten dokumentierten Spiele statt, dort spielten die besten Mannschaften des Kontinents, und dort feierte der jüdische Verein Hakoah seine größten Erfolge. Heute ist von dieser Fußballwelt kaum etwas übrig; das Ernst-Happel-Stadion erinnert noch daran, wirkt aber etwas aus der Zeit gefallen. Der Buchautor Mario Kubista zeichnet gemeinsam mit Bernhard Hammer und Thomas Pöltl in „Von der Praterbahn zum Ernst-Happel-Stadion“ die Geschichte des Bezirks nach, einschließlich vergessener Vereine und der jüdischen Fußballgeschichte. Der Text stellt sein Urteil, nur in England habe es bessere Vereine gegeben, als Aussage des Autors dar.",
+      "whyItMatters": "Sportgeschichte erzählt auch davon, wie sich eine Stadt und ihre Gemeinschaften verändert haben.",
+      "thinkQuestion": "Was geht verloren, wenn die Geschichte eines Sports nur noch aus den heutigen Siegern erzählt wird?",
+      "source": {
+        "name": "Der Standard Sport",
+        "url": "https://www.derstandard.at/story/3000000348327/fussball-in-der-leopoldstadt-nur-in-england-gab-es-bessere-vereine?ref=rss"
+      }
+    },
+    {
+      "domain": "Wirtschaft",
+      "lang": "de",
+      "headline": "Mini-Windturbine „Marlene“ mit senkrechter Achse für bebaute Gebiete",
+      "summary": "Die meisten Windräder, die in Österreich oft umstritten sind, drehen sich um eine waagrechte Achse. Das deutsch-niederländische Start-up Elegant Energy will mit einem anderen Design eine Lücke schließen: Seine Turbine „Marlene“ soll deutlich kleiner sein als herkömmliche Anlagen, und ihre Rotationsachse steht senkrecht. So soll Windkraft auch dorthin kommen, wo große Windräder keinen Platz haben, nämlich in bebaute Gebiete. Bei guten Windverhältnissen soll eine Anlage 20.000 Kilowattstunden im Jahr erzeugen können. Eine der ersten dreht sich in Österreich. Ob sich das Konzept wirtschaftlich durchsetzt, geht aus dem vorliegenden Text nicht hervor.",
+      "whyItMatters": "Neue Bauformen zeigen, dass die Frage, wo erneuerbare Energie erzeugt werden kann, auch eine Frage der Technik ist.",
+      "thinkQuestion": "Welche Annahmen müssten stimmen, damit viele kleine Anlagen einen sinnvollen Beitrag zur Energieversorgung leisten statt weniger großer?",
+      "source": {
+        "name": "Der Standard Wirtschaft",
+        "url": "https://www.derstandard.at/story/3000000348933/wo-grosse-windraeder-keinen-platz-haben-soll-diese-mini-windturbine-helfen?ref=rss"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Das eigene Weltbild auf andere übertragen",
+    "explanation": "Wir deuten Fremdes oft nach dem Muster, das wir selbst kennen, und halten das Ergebnis dann für Beobachtung. Dieser Fehler heißt Ethnozentrismus oder Projektion. Er ist hartnäckig, weil das übertragene Bild in sich stimmig wirkt. Die Beschreibung der Maya durch einen spanischen Missionar ist ein Beispiel: Er sah eine Gesellschaft aus Adel und Bauern, wie er sie aus seiner Heimat kannte. Gegenmittel sind unabhängige Belege und der Blick darauf, wer eine Quelle warum geschrieben hat.",
+    "example": "Ein Tourist kommt in ein Land mit anderen Pünktlichkeitsregeln und schließt, die Menschen dort seien unzuverlässig, obwohl sie nur andere Maßstäbe anlegen.",
+    "selfCheck": "Beurteile ich dieses Verhalten gerade nach den Regeln, die in meiner Welt gelten, und habe ich geprüft, ob sie hier überhaupt zutreffen?"
+  },
+  "quiz": [
+    {
+      "question": "Was soll an dem Van-Gogh-Gemälde bei Sotheby’s strittig sein?",
+      "options": [
+        "Eine mögliche Fälschung",
+        "Ein Besitzerwechsel in der NS-Zeit",
+        "Ein Exportverbot Frankreichs",
+        "Ein Schaden durch Restaurierung"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jüdische Erben fordern einen Verkaufsstopp, strittig dürfte ein Besitzerwechsel in der NS-Zeit sein."
+    },
+    {
+      "question": "Wodurch widerlegten die Chases die Vorstellung vom Maya-Adel als Alleinverteiler von Gütern?",
+      "options": [
+        "Durch Schriften de Landas",
+        "Durch viele Haushalte gewöhnlicher Menschen mit importiertem Obsidian",
+        "Durch Funde von Metallwerkzeugen",
+        "Durch Luftbilder von Tikal"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Santa Rita Corozal besaßen zu viele Nicht-Eliten Obsidian, als dass er als Geschenk der Elite verteilt worden sein könnte."
+    },
+    {
+      "question": "Wo fanden laut Zusammenfassung 1892 die ersten dokumentierten Fußballspiele Österreichs statt?",
+      "options": [
+        "In Graz",
+        "In der Wiener Leopoldstadt",
+        "In Salzburg",
+        "In Linz"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der zweite Wiener Gemeindebezirk gilt als Wiege des österreichischen Fußballs."
+    },
+    {
+      "question": "Was unterscheidet die Turbine „Marlene“ von den meisten Windrädern?",
+      "options": [
+        "Sie steht nur im Meer",
+        "Ihre Rotationsachse ist senkrecht",
+        "Sie benötigt keinen Wind",
+        "Sie ist größer als normale Anlagen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sie ist deutlich kleiner und dreht sich um eine vertikale statt horizontale Achse."
+    }
+  ]
+}
