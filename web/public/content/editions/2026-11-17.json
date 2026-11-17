@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-17",
+  "title": "Wetterlagen, Pferde und ein Neandertaler-Erbe",
+  "articles": [
+    {
+      "domain": "Technik",
+      "lang": "de",
+      "headline": "Warum Waldbrände in ganz Europa oft zur selben Zeit ausbrechen",
+      "summary": "Wenn im Mittelmeerraum, in Mitteleuropa und in Skandinavien fast gleichzeitig Wälder brennen, müssen sich mehrere Länder dieselben Löschflugzeuge und Einsatzkräfte teilen. Forschende der ETH Zürich um Xinhang Li haben deshalb 20.103 per Satellit erfasste Brände aus den Jahren 2001 bis 2020 ausgewertet. Sie teilten Europa in zehn Regionen und nannten Brände synchron, wenn innerhalb von höchstens sechs Tagen in mindestens zwei Regionen Feuer auftraten. Gleichzeitige Brände gingen fast überall mit überdurchschnittlicher Wärme und Trockenheit einher, je nach Lage kam starker Wind hinzu. Besonders ein stabiles Hoch über Skandinavien oder über dem Nordatlantik erhöhte im Sommer die Wahrscheinlichkeit, dass mehrere Regionen zugleich betroffen waren. Ein Hoch über Grönland brachte dagegen eher kühlere, feuchtere Bedingungen und seltener gleichzeitige Brände. Die Daten zeigen Zusammenhänge, keine sichere Vorhersage einzelner Feuer, und kleinere Brände erfasst der Satellit nur unvollständig. Weil sich solche Wetterlagen teils bis zu zwei Wochen im Voraus einschätzen lassen, könnten sie Brandwarnungen ergänzen. Ob das in der Praxis funktioniert, muss erst erprobt werden.",
+      "whyItMatters": "Katastrophen in getrennten Regionen sind oft verbunden, weil ein gemeinsames Wettermuster dahintersteht. Das hilft, knappe Hilfsmittel besser zu planen.",
+      "thinkQuestion": "Welche anderen Krisen treten an weit entfernten Orten gleichzeitig auf, und wie würdest du prüfen, ob dahinter eine gemeinsame Ursache oder bloßer Zufall steckt?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/geowissen/warum-treten-waldbraende-in-weit-entfernten-regionen-europas-oft-gleichzeitig-auf/"
+      }
+    },
+    {
+      "domain": "Psychologie",
+      "lang": "de",
+      "headline": "Ein Neandertaler-Erbe im Gehirn: kleinerer Okzipitallappen, aber kaum Folgen für das Denken",
+      "summary": "Neandertaler und Homo sapiens lebten jahrtausendelang nebeneinander und bekamen miteinander Nachwuchs, weshalb heutige Menschen noch einige Neandertaler-Gene tragen. Hugo Zeberg und Svante Pääbo vom Max-Planck-Institut in Leipzig verknüpften Hirnscans heutiger Menschen mit Erbgutdaten und fanden eine Variante, die mit einem kleineren Okzipitallappen zusammenhängt, dem Hirnareal am Hinterkopf mit dem visuellen Kortex. Pro Genkopie ist das Volumen um etwa 0,85 Kubikzentimeter geringer. Die Variante liegt nahe dem Gen DAAM1, das an der Gehirnentwicklung beteiligt ist. Sie ist außerhalb Afrikas weit verbreitet und kommt in fünf untersuchten Neandertaler-Genomen vor, nicht aber in zwei Denisova-Genomen. Wer beide Kopien trägt, hat ein um fast zehn Prozent verringertes Schizophrenierisiko, mit anderen untersuchten psychischen Erkrankungen fand sich kein Zusammenhang. Auf kognitive Fähigkeiten wirkt sie kaum. Die Forscher mahnen deshalb, die Größe einer Hirnregion nicht mit Leistungsfähigkeit gleichzusetzen. Ein scheinbarer Widerspruch: Neandertaler hatten laut Fossilien einen eher größeren Okzipitallappen. Wahrscheinlich bestimmen viele Faktoren die Hirnanatomie, auch Augen- und Körpergröße.",
+      "whyItMatters": "Die Studie zeigt, dass ein einzelnes Gen die Hirnstruktur messbar verändern kann, ohne unser Denken wesentlich zu beeinflussen. Sie warnt vor dem Kurzschluss „größer heißt besser“.",
+      "thinkQuestion": "Wo begegnet dir im Alltag die Annahme, dass mehr oder größer automatisch besser ist, und was spräche in diesem Fall dagegen?",
+      "source": {
+        "name": "wissenschaft.de",
+        "url": "https://wissenschaft.de/artikel/neandertaler-gen-beeinflusst-unser-hirnvolumen"
+      }
+    },
+    {
+      "domain": "Kunst, Musik & Literatur",
+      "lang": "en",
+      "headline": "Did horses, not grain, make the first states? A historian's challenge",
+      "summary": "In an essay for Aeon, the historian Lhamsuren Munkh-Erdene argues that civilisation rests less on grain than on transportation. His starting point: without animals or boats, people could only walk and carry, which kept communities small, egalitarian and hard to conquer. Domesticated animals and boats made long-distance mobilisation possible, so cities and states could integrate wide areas. He points to chariots in Mesopotamia and Shang China, to Pizarro's horses against the llama-based Inka empire, and to the Comanche, who built an empire without agriculture. In his view, the dominant picture of world history is Sinocentric and grain-centred, shaped by Owen Lattimore, Robert Carneiro and later popular writers such as Jared Diamond and James C Scott. He claims this paradigm owes much to Cold War politics and conflicts with archaeological findings, citing settlement surveys that found too little population pressure around early states. This is one scholar's contested argument, not settled consensus, and the excerpt available here covers only the opening part of the case.",
+      "whyItMatters": "It shows how a basic assumption, here that farming created the state, can shape a whole field until someone questions it.",
+      "thinkQuestion": "If the author is right that grain is only one factor, what other everyday things might we credit too simply for how societies came to be?",
+      "source": {
+        "name": "Aeon",
+        "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist"
+      }
+    },
+    {
+      "domain": "Politik & Gesellschaft",
+      "lang": "de",
+      "headline": "Australien streitet über Backpacker-Visa: Zuwanderung senken, Landarbeiter halten",
+      "summary": "Australiens Regierung unter Premierminister Anthony Albanese hatte im September angekündigt, die Zuwanderung zu senken, auch wegen der wachsenden Popularität der rechtsextremen Partei One Nation und wegen Wohnungsknappheit. Geplante Kürzungen bei Zehntausenden Working-Holiday-Visa riefen jedoch Arbeitgeber auf dem Land auf den Plan, die für Obsternte, Gastronomie und Tourismus auf Rucksackreisende angewiesen sind. Nun lockert die Regierung den Plan: Die Obergrenze für ein drittes Jahr steigt im kommenden Jahr von 5.000 auf 25.000 Plätze, 2025 waren es 31.000 bewilligte Visa. Dafür wächst die Pflicht zur ländlichen Arbeit für das zweite Jahr von drei auf vier Monate, bei 45.000 Plätzen und damit 20 Prozent weniger als im Vorjahr. Innenminister Tony Burke spricht von mehr Arbeitskräften für die Regionen bei geringerer Nettozuwanderung. Mit Großbritannien laufen Gespräche, die Landarbeitspflicht auch auf britische Backpacker auszudehnen, bisher sind sie wegen eines Freihandelsabkommens ausgenommen. Die Bauernvertretung begrüßt die Änderung, will aber mehr Details. Oppositionsführer Angus Taylor lehnt sie ab und will sie bei einem Wahlsieg aufheben.",
+      "whyItMatters": "Der Fall zeigt, wie politische Ziele wie weniger Zuwanderung mit wirtschaftlichen Interessen kollidieren und am Ende Kompromisse entstehen.",
+      "thinkQuestion": "Wer gewinnt und wer verliert bei einem solchen Kompromiss, und welche Interessen bleiben in der Debatte womöglich unsichtbar?",
+      "source": {
+        "name": "euronews",
+        "url": "https://de.euronews.com/2026/11/17/australien-lockert-kurzung-von-backpacker-visa-nach-protesten-regionaler-arbeitgeber"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Monokausales Denken: die eine Ursache",
+    "explanation": "Monokausales Denken führt ein komplexes Geschehen auf eine einzige Ursache zurück. Es ist verlockend, weil eine einfache Erklärung leicht zu merken und zu erzählen ist. Doch Waldbrände, Hirnanatomie oder die Entstehung von Staaten haben meist mehrere zusammenwirkende Faktoren. Wer nur einen Faktor betrachtet, übersieht andere und überschätzt den gewählten. Ein Warnsignal sind Aussagen mit „allein“, „nur“ oder „der eigentliche Grund“.",
+    "example": "Nach einem verlorenen Spiel heißt es, allein der Trainer sei schuld. Dabei spielen Verletzungen, Form der Gegner, Schiedsrichter und Zufall ebenfalls mit.",
+    "selfCheck": "Wenn ich für etwas nur einen Grund nenne: Welche zwei weiteren möglichen Faktoren habe ich noch gar nicht geprüft?"
+  },
+  "quiz": [
+    {
+      "question": "Welche Wetterlage erhöhte laut der ETH-Studie im Sommer die Wahrscheinlichkeit gleichzeitiger Waldbrände in mehreren Regionen?",
+      "options": [
+        "Ein stabiles Hoch über Skandinavien oder dem Nordatlantik",
+        "Ein Hoch über Grönland",
+        "Ein Tiefdruckgebiet mit Dauerregen",
+        "Ein winterlicher Kälteeinbruch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ein Hoch über Skandinavien oder dem Nordatlantik ging mit Wärme, Trockenheit und mehr synchronen Bränden einher, ein Hoch über Grönland dagegen mit weniger."
+    },
+    {
+      "question": "Was fanden Zeberg und Pääbo zur Neandertaler-Genvariante im Gehirn?",
+      "options": [
+        "Sie steigert die Intelligenz deutlich",
+        "Sie verkleinert den Okzipitallappen und hängt mit geringerem Schizophrenierisiko zusammen",
+        "Sie kommt nur in Afrika vor",
+        "Sie erhöht das Risiko für Depressionen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die Variante geht mit einem kleineren Okzipitallappen einher und bei zwei Kopien mit einem fast zehn Prozent geringeren Schizophrenierisiko, kognitiv ist der Effekt kaum messbar."
+    },
+    {
+      "question": "Welches Beispiel nennt Munkh-Erdene für einen Staat ohne Ackerbau?",
+      "options": [
+        "Das Römische Reich",
+        "Die Inka",
+        "Das Comanche-Reich",
+        "Das alte Ägypten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Die Comanche bauten laut Autor ein Reich auf Pferdehaltung und Bisonjagd auf, ganz ohne Getreide oder Landwirtschaft."
+    },
+    {
+      "question": "Wie ändert Australien die Landarbeitspflicht für das zweite Working-Holiday-Jahr?",
+      "options": [
+        "Sie steigt von drei auf vier Monate",
+        "Sie sinkt von vier auf drei Monate",
+        "Sie wird abgeschafft",
+        "Sie steigt von vier auf sechs Monate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Pflicht zur ländlichen Arbeit wächst von drei auf vier Monate, während die Visa-Plätze für das dritte Jahr auf 25.000 angehoben werden."
+    }
+  ]
+}

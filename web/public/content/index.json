@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-17",
+    "title": "Wetterlagen, Pferde und ein Neandertaler-Erbe",
+    "domains": [
+      "Technik",
+      "Psychologie",
+      "Kunst, Musik & Literatur",
+      "Politik & Gesellschaft"
+    ],
+    "headlines": [
+      "Warum Waldbrände in ganz Europa oft zur selben Zeit ausbrechen",
+      "Ein Neandertaler-Erbe im Gehirn: kleinerer Okzipitallappen, aber kaum Folgen für das Denken",
+      "Did horses, not grain, make the first states? A historian's challenge",
+      "Australien streitet über Backpacker-Visa: Zuwanderung senken, Landarbeiter halten"
+    ],
+    "thinking": "Monokausales Denken: die eine Ursache",
+    "urls": [
+      "https://www.scinexx.de/news/geowissen/warum-treten-waldbraende-in-weit-entfernten-regionen-europas-oft-gleichzeitig-auf/",
+      "https://wissenschaft.de/artikel/neandertaler-gen-beeinflusst-unser-hirnvolumen",
+      "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "https://de.euronews.com/2026/11/17/australien-lockert-kurzung-von-backpacker-visa-nach-protesten-regionaler-arbeitgeber"
+    ]
+  },
+  {
     "date": "2026-11-16",
     "title": "Maya-Metropole und Kunst im Streit",
     "domains": [
