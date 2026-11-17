@@ -8,17 +8,21 @@ Der Leser will sein Allgemeinwissen verbreitern und sein kritisches Denken train
 
 Alle Befehle im Ordner `generator/`.
 
+0. Auf den neuesten Stand von `main` wechseln, auch wenn der Checkout auf einem anderen Stand steht:
+   `git fetch origin main && git checkout -B main origin/main`
 1. `npm ci`
 2. `npm run candidates`
    Meldet der Befehl „existiert bereits“, ist nichts zu tun: ohne Änderung beenden.
    Sonst listet er vier Gebiete mit Kandidaten (`[id] Titel (Medium)` und Anriss).
+   Meldungen „Feed übersprungen“ und „Gebiet übersprungen“ sind normal, solange am Ende vier Gebiete gelistet werden.
 3. Pro Gebiet einen Artikel und einen Ersatz wählen (Kriterien unten), dann die Texte holen:
    `npm run text -- <id> <id> <id> <id>`
    Ist ein Text kürzer als etwa 1200 Zeichen oder passt er nicht zum Titel, den Ersatz holen und den besseren nehmen.
 4. Den Entwurf nach `generator/work/entwurf.json` schreiben (Format unten).
 5. `npm run publish -- work/entwurf.json`
    Meldet der Befehl einen Fehler, den Entwurf korrigieren und wiederholen. Die Prüfung nicht umgehen und die erzeugten Dateien nicht von Hand ändern.
-6. Nur `web/public/content/` committen, Nachricht `Ausgabe JJJJ-MM-TT`, ohne Co-Author-Zeile, und direkt auf `main` pushen.
+6. Nur `web/public/content/` committen, Nachricht `Ausgabe JJJJ-MM-TT`, ohne Co-Author-Zeile, und direkt auf `main` pushen: `git push origin main`.
+   Wird der Push abgelehnt, weil `main` inzwischen weiter ist: `git pull --rebase origin main`, dann erneut pushen.
 
 Schlägt ein Schritt endgültig fehl (keine Kandidaten, Netzwerk gesperrt), nichts committen und im Abschlussbericht genau sagen, woran es lag.
 
