@@ -41,27 +41,22 @@ interface Feed {
 // Bewusst nicht dabei, weil kein Artikeltext abrufbar ist: Spektrum und
 // Atlas Obscura (403 für automatische Abrufe), Deutschlandfunk Kultur (nur Sammelseite),
 // Deutschlandfunk Wissen (Audio-Seiten, liefern für jeden Artikel denselben Fremdtext).
+// Entfernt am 2026-11-17: DW, tagesschau und BBC. Die Cloud-Umgebung der Routine sperrt diese
+// Hosts („Blocked by egress policy“), außerdem schließen sie ClaudeBot per robots.txt aus.
+// ORF ebenfalls nicht (robots.txt schließt ClaudeBot aus).
 const FEEDS: Feed[] = [
-  { name: "DW Wissenschaft", url: "https://rss.dw.com/xml/rss-de-wissenschaft", lang: "de", domains: ["Biologie", "Physik & Chemie", "Medizin", "Psychologie", "Weltraum"] },
   { name: "scinexx", url: "https://www.scinexx.de/feed/", lang: "de", domains: ["Biologie", "Physik & Chemie", "Geografie", "Technik", "Weltraum"] },
+  { name: "wissenschaft.de", url: "https://www.wissenschaft.de/feed/", lang: "de", domains: ["Biologie", "Physik & Chemie", "Medizin", "Psychologie", "Geschichte", "Geografie", "Technik", "Weltraum"] },
   { name: "Der Standard Wissenschaft", url: "https://www.derstandard.at/rss/wissenschaft", lang: "de", domains: ["Biologie", "Medizin", "Geschichte", "Geografie", "Weltraum"] },
-  { name: "tagesschau Wissen", url: "https://www.tagesschau.de/wissen/index~rss2.xml", lang: "de", domains: ["Medizin", "Biologie", "Technik", "Psychologie"] },
-  { name: "tagesschau Wirtschaft", url: "https://www.tagesschau.de/wirtschaft/index~rss2.xml", lang: "de", domains: ["Wirtschaft"] },
   { name: "Der Standard Wirtschaft", url: "https://www.derstandard.at/rss/wirtschaft", lang: "de", domains: ["Wirtschaft"] },
-  { name: "tagesschau Ausland", url: "https://www.tagesschau.de/ausland/index~rss2.xml", lang: "de", domains: ["Länder & Kulturen", "Politik & Gesellschaft", "Geografie"] },
+  { name: "euronews", url: "https://de.euronews.com/rss", lang: "de", domains: ["Länder & Kulturen", "Politik & Gesellschaft", "Wirtschaft"] },
   { name: "sportschau", url: "https://www.sportschau.de/index~rss2.xml", lang: "de", domains: ["Sport"] },
   { name: "Der Standard Sport", url: "https://www.derstandard.at/rss/sport", lang: "de", domains: ["Sport"] },
   { name: "Der Standard Kultur", url: "https://www.derstandard.at/rss/kultur", lang: "de", domains: ["Kunst, Musik & Literatur", "Länder & Kulturen"] },
-  { name: "DW Kultur", url: "https://rss.dw.com/xml/rss-de-cul", lang: "de", domains: ["Kunst, Musik & Literatur", "Länder & Kulturen"] },
   { name: "heise online", url: "https://www.heise.de/rss/heise-atom.xml", lang: "de", domains: ["Technik"] },
 
   { name: "Quanta Magazine", url: "https://www.quantamagazine.org/feed/", lang: "en", domains: ["Physik & Chemie", "Biologie"] },
   { name: "ScienceDaily", url: "https://www.sciencedaily.com/rss/top/science.xml", lang: "en", domains: ["Biologie", "Medizin", "Physik & Chemie"] },
-  { name: "BBC Science", url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", lang: "en", domains: ["Biologie", "Geografie", "Weltraum"] },
-  { name: "BBC Business", url: "https://feeds.bbci.co.uk/news/business/rss.xml", lang: "en", domains: ["Wirtschaft"] },
-  { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml", lang: "en", domains: ["Länder & Kulturen", "Politik & Gesellschaft"] },
-  { name: "BBC Technology", url: "https://feeds.bbci.co.uk/news/technology/rss.xml", lang: "en", domains: ["Technik"] },
-  { name: "BBC Sport", url: "https://feeds.bbci.co.uk/sport/rss.xml", lang: "en", domains: ["Sport"] },
   { name: "NASA", url: "https://www.nasa.gov/feed/", lang: "en", domains: ["Weltraum"] },
   { name: "Smithsonian History", url: "https://www.smithsonianmag.com/rss/history/", lang: "en", domains: ["Geschichte"] },
   { name: "Smithsonian Arts & Culture", url: "https://www.smithsonianmag.com/rss/arts-culture/", lang: "en", domains: ["Kunst, Musik & Literatur"] },
@@ -73,13 +68,21 @@ const FEEDS: Feed[] = [
 
 const ITEMS_PER_FEED = 8;
 const MAX_TEXT = 12_000;
-const USER_AGENT = "dollnews-generator/1.0";
+// Wikimedia verlangt einen User-Agent mit Kontaktmöglichkeit, sonst drosselt es (429).
+const USER_AGENT = "dollnews-generator/1.0 (+https://news.ariandoll.dev)";
+const ATTEMPTS = 3;
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_", htmlEntities: true });
 
+/** Wiederholt bei Netzwerkfehlern, 429 und 5xx. 403 und 404 ändern sich durch Warten nicht. */
 async function get(url: string): Promise<string> {
-  const res = await fetch(url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20_000) });
-  if (!res.ok) throw new Error(`${res.status} ${url}`);
-  return res.text();
+  for (let attempt = 1; ; attempt++) {
+    const res = await fetch(url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20_000) })
+      .catch((error: Error) => error);
+    if (res instanceof Response && res.ok) return res.text();
+    const retry = attempt < ATTEMPTS && (!(res instanceof Response) || res.status === 429 || res.status >= 500);
+    if (!retry) throw res instanceof Response ? new Error(`${res.status} ${url}`) : res;
+    await new Promise((resolve) => setTimeout(resolve, 3_000 * attempt));
+  }
 }
 
 function list<T>(value: T | T[] | undefined): T[] {

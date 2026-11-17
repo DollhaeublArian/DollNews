@@ -1,9 +1,9 @@
 // Schritt 1: Gebiete des Tages wählen und die Kandidaten je Gebiet auflisten.
 // Aufruf: npm run candidates [-- YYYY-MM-DD]; ohne Datum: heute in Wien.
 import { existsSync } from "node:fs";
-import { pickDomains, pickEnglishDomain } from "./pick.ts";
+import { pickLists } from "./pick.ts";
 import { loadCandidates } from "./sources.ts";
-import { contentDir, readIndex, writeWork, type Work } from "./store.ts";
+import { contentDir, readIndex, writeWork } from "./store.ts";
 
 const date = process.argv[2] ?? new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Vienna" });
 if (existsSync(`${contentDir}editions/${date}.json`)) {
@@ -12,17 +12,8 @@ if (existsSync(`${contentDir}editions/${date}.json`)) {
 }
 
 const index = readIndex();
-const domains = pickDomains(index);
-const englishDomain = pickEnglishDomain(domains, date);
 const candidates = await loadCandidates(date, new Set(index.flatMap((entry) => entry.urls)));
-
-const lists: Work["lists"] = domains.map((domain) => {
-  const lang = domain === englishDomain ? "en" : "de";
-  return { domain, lang, candidates: candidates.filter((c) => c.lang === lang && c.domains.includes(domain)) };
-});
-for (const { domain, candidates } of lists) {
-  if (candidates.length < 2) throw new Error(`Zu wenige Kandidaten für ${domain}`);
-}
+const lists = pickLists(index, candidates, date);
 writeWork({ date, lists });
 
 console.log(`# Ausgabe ${date}\n`);
