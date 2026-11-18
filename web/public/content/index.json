@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-18",
+    "title": "Voyager-Distanz und blinde Mutationen",
+    "domains": [
+      "Weltraum",
+      "Biologie",
+      "Physik & Chemie",
+      "Medizin"
+    ],
+    "headlines": [
+      "Voyager 1 ist nun einen ganzen Lichttag von der Erde entfernt",
+      "Mutieren wichtige Gene seltener? Neue Analyse stützt Darwins „blinde“ Evolution",
+      "Laser mit nur 115 Nanometern Länge: Gold hält das Licht fest",
+      "Finnish study links childhood screen time to better thinking in teens, with big caveats"
+    ],
+    "thinking": "Überlebensverzerrung: Man sieht nur, was übrig blieb",
+    "urls": [
+      "https://www.derstandard.at/story/3000000349709/voyager-1-ist-einen-ganzen-lichttag-von-der-erde-entfernt?ref=rss",
+      "https://wissenschaft.de/artikel/blinde-evolution-darwin-behaelt-recht",
+      "https://www.scinexx.de/news/physik/115-nanometer-laser-naehert-sich-der-physikalischen-grenze/",
+      "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+    ]
+  },
+  {
     "date": "2026-11-17",
     "title": "Wetterlagen, Pferde und ein Neandertaler-Erbe",
     "domains": [

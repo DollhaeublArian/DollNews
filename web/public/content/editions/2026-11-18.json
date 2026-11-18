@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-18",
+  "title": "Voyager-Distanz und blinde Mutationen",
+  "articles": [
+    {
+      "domain": "Weltraum",
+      "lang": "de",
+      "headline": "Voyager 1 ist nun einen ganzen Lichttag von der Erde entfernt",
+      "summary": "Ein Lichttag ist keine Zeit-, sondern eine Strecke: die Distanz, die Licht in 24 Stunden zurücklegt, rund 25,9 Milliarden Kilometer. Genau diese Entfernung hat die NASA-Sonde Voyager 1 nun erreicht. Kein anderes Objekt, das Menschen gebaut haben, ist je so weit ins All vorgedrungen. Für den Weg brauchte die Sonde gut 49 Jahre, obwohl sie mit etwa 61.000 Kilometern pro Stunde unterwegs ist. Die Folge für die Kommunikation ist handfest: Ein Funksignal, das Voyager 1 an einem Mittwoch um 11.16 Uhr MEZ losschickt, kommt erst am Donnerstag zur selben Uhrzeit bei uns an, weil auch Funkwellen mit Lichtgeschwindigkeit reisen. Zur Einordnung: Das Licht der Sonne braucht nur gut acht Minuten bis zur Erde. Von den Instrumenten der Sonde arbeiten nur noch zwei, ein Magnetometer und ein Plasmawellengerät.",
+      "whyItMatters": "Die Entfernung macht greifbar, wie groß das All ist und warum selbst Funkkontakt mit der Technik Tage der Geduld braucht: Die Lichtgeschwindigkeit setzt eine harte Grenze.",
+      "thinkQuestion": "Wenn jede Antwort einer Sonde einen Tag unterwegs ist: Welche Entscheidungen müsste man künftigen Raumfahrzeugen komplett selbst überlassen, und welche nicht?",
+      "source": {
+        "name": "Der Standard Wissenschaft",
+        "url": "https://www.derstandard.at/story/3000000349709/voyager-1-ist-einen-ganzen-lichttag-von-der-erde-entfernt?ref=rss"
+      }
+    },
+    {
+      "domain": "Biologie",
+      "lang": "de",
+      "headline": "Mutieren wichtige Gene seltener? Neue Analyse stützt Darwins „blinde“ Evolution",
+      "summary": "Nach Darwin entstehen durch zufällige Mutationen erbliche Unterschiede, und die Selektion der Umwelt entscheidet, welche sich durchsetzen. Der Molekularbiologe Edward Cox vermutete 1972 dagegen, dass wichtige Gene seltener mutieren, weil schon die Mutationsrate selbst von der Selektion geformt wird. Diese Hypothese war stets umstritten. Sofia Radrizzani und Laurence Hurst von der University of Bath haben sie nun in der bislang umfangreichsten Analyse geprüft, mit Daten des Darmbakteriums Escherichia coli und der Hefe Saccharomyces cerevisiae. Weder die Bedeutung eines Gens noch die Menge des erzeugten Proteins oder seine Lage im DNA-Strang beeinflusste die Mutationsrate. Nur ein winziger Effekt der Transkription blieb, er erklärt weniger als 0,5 Prozent der Unterschiede. Der scheinbare Schutz wichtiger Gene entsteht laut Hurst anders: Die Selektion beseitigt schädliche Mutationen dort so schnell, dass sie verschwinden, bevor man sie untersuchen kann.",
+      "whyItMatters": "Die Studie zeigt, wie eine alte, plausibel klingende Hypothese mit besseren Daten überprüft wird, und sie trennt sauber zwischen dem Entstehen von Mutationen und ihrer Auslese.",
+      "thinkQuestion": "Welche anderen Beobachtungen in deinem Alltag wirken wie „Absicht“ oder „Schutz“, könnten aber nur das Ergebnis von Aussortieren im Nachhinein sein?",
+      "source": {
+        "name": "wissenschaft.de",
+        "url": "https://wissenschaft.de/artikel/blinde-evolution-darwin-behaelt-recht"
+      }
+    },
+    {
+      "domain": "Physik & Chemie",
+      "lang": "de",
+      "headline": "Laser mit nur 115 Nanometern Länge: Gold hält das Licht fest",
+      "summary": "Ein Laser braucht normalerweise einen Resonator, in dem sich Lichtwellen verstärken und aufeinander abstimmen. Je kleiner er wird, desto schwerer lässt sich genug Licht einschließen. Forscher der Rice University um Sangyeon Cho brachten Nanoteilchen aus Indiumphosphid auf eine sehr glatte Goldoberfläche. An der Grenze zwischen Gold und Halbleiter schwingen Elektronen gemeinsam und halten das elektromagnetische Feld auf engem Raum fest. Von 35 untersuchten Teilchen lieferte das kleinste nachweislich lasende etwa 115 Nanometer Länge, abgeleitet aus Spektrum und Modellrechnung. Sein Licht hatte rund 732 Nanometer Wellenlänge, mehr als das Sechsfache seiner Länge. Der Preis der Miniaturisierung: Das Metall absorbiert Licht, größere Partikel erzeugen daher schärfere Spektrallinien. Als Anwendung gelten optische Barcodes zur Markierung von Zellstrukturen. Das wurde mit den kleinen Lasern aber noch nicht gezeigt, sie brauchen die Goldunterlage und einen äußeren Anregungslaser.",
+      "whyItMatters": "Der Fall zeigt, dass physikalische Grenzen oft Kompromisse sind: Man kann sie mit klugen Tricks ein Stück verschieben, bezahlt aber mit anderen Eigenschaften.",
+      "thinkQuestion": "Wann ist ein „kleiner, aber schlechter“ Laser besser als ein großer, präziser, und wer entscheidet das?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/physik/115-nanometer-laser-naehert-sich-der-physikalischen-grenze/"
+      }
+    },
+    {
+      "domain": "Medizin",
+      "lang": "en",
+      "headline": "Finnish study links childhood screen time to better thinking in teens, with big caveats",
+      "summary": "Researchers in Finland followed children for eight years and found something that cuts against a common assumption: more screen time throughout childhood was associated with better cognitive processing at around age 16. The analysis, part of the PANIC study, included 260 participants and measured learning, attention and working memory with computerized tests. The authors suggest that what children do on screens may matter more than how long they use them, since watching videos, strategic games and learning activities demand very different mental effort. Physical activity told a more complicated story: light activity was linked to better working memory in girls, guided activity in boys. Wearable sensors, however, showed no link between overall movement or sitting time and cognitive performance, possibly because sensors cannot tell what a person is actually doing. Crucially, these are associations, not proof of cause and effect. Intervention studies are needed to find out whether changing screen habits would change thinking abilities.",
+      "whyItMatters": "It shows how a surprising headline result depends on what is measured and how, and why \"screen time\" as a single number may hide the differences that matter.",
+      "thinkQuestion": "If children with better thinking skills also happen to choose more demanding screen activities, which direction would the causal arrow point, and how could you test it?",
+      "source": {
+        "name": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Überlebensverzerrung: Man sieht nur, was übrig blieb",
+    "explanation": "Bei der Überlebensverzerrung (Survivorship Bias) betrachten wir nur das, was einen Auswahlprozess überstanden hat, und übersehen alles, was vorher ausgesiebt wurde. Daraus schließen wir fälschlich, die sichtbaren Fälle seien typisch oder ihre Eigenschaften seien die Ursache des Erfolgs. Die Genstudie des heutigen Tages ist ein Beispiel: Wo wichtige Gene wenig Mutationen zeigen, kann das daran liegen, dass Träger schädlicher Mutationen gar nicht erst überlebten. Das Muster wirkt dann wie ein Schutz, ist aber ein Filter.",
+    "example": "Ein Bekannter schwärmt, dass alte Häuser früher „für die Ewigkeit“ gebaut wurden. Gesehen hat er aber nur jene, die bis heute stehen; die schlecht gebauten sind längst abgerissen.",
+    "selfCheck": "Wenn ich etwas für typisch oder besonders gut halte: Habe ich auch die Fälle im Blick, die nicht mehr sichtbar sind, weil sie ausgesiebt wurden?"
+  },
+  "quiz": [
+    {
+      "question": "Was beschreibt ein „Lichttag“, den Voyager 1 nun erreicht hat?",
+      "options": [
+        "Die Zeit, die die Sonde für eine Erdumrundung bräuchte",
+        "Die Strecke von etwa acht Minuten Lichtlaufzeit",
+        "Die Strecke, die Licht in 24 Stunden zurücklegt, rund 25,9 Milliarden Kilometer",
+        "Die Reichweite ihres Funksenders ohne Verstärkung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ein Lichttag ist eine Entfernung: so weit, wie Licht (und Funk) in 24 Stunden kommt."
+    },
+    {
+      "question": "Wie erklärt Laurence Hurst den Anschein, wichtige Gene würden seltener mutieren?",
+      "options": [
+        "Die Selektion entfernt schädliche Mutationen in wichtigen Genen sehr schnell, sodass sie kaum je beobachtet werden",
+        "Wichtige Gene besitzen einen eingebauten Reparaturmechanismus, der alle Fehler beseitigt",
+        "Wichtige Gene liegen immer am Anfang des DNA-Strangs",
+        "Sie werden seltener in Proteine übersetzt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Betroffene Organismen sterben, die Mutationen verschwinden aus dem Genpool, bevor man sie untersucht."
+    },
+    {
+      "question": "Warum wurde der Nano-Laser aus Gold und Indiumphosphid nicht beliebig klein?",
+      "options": [
+        "Indiumphosphid lässt sich nicht kleiner herstellen",
+        "Das Gold absorbiert Licht und die optischen Verluste steigen bei starker Bündelung",
+        "Kleine Laser senden nur unsichtbares Licht aus",
+        "Die Teilchen schmelzen bei Raumtemperatur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Starke Lichtbündelung geht mit höheren Verlusten einher, daher sind der Verkleinerung Grenzen gesetzt."
+    },
+    {
+      "question": "Warum darf man aus der Finnland-Studie nicht schließen, mehr Bildschirmzeit verbessere das Denken?",
+      "options": [
+        "Die Studie umfasste nur Erwachsene",
+        "Die Tests waren nicht computerbasiert",
+        "Die Teilnehmer nutzten keine Bildschirme",
+        "Sie zeigt nur Zusammenhänge; ob Ursache und Wirkung bestehen, müssten Interventionsstudien klären"
+      ],
+      "correctIndex": 3,
+      "explanation": "Die Befunde sind Assoziationen, kausale Beziehungen sind damit nicht belegt."
+    }
+  ]
+}
