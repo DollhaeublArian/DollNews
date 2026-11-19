@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-19",
+    "title": "Bio-Äcker, Bunker und Zarentitel",
+    "domains": [
+      "Geografie",
+      "Länder & Kulturen",
+      "Geschichte",
+      "Sport"
+    ],
+    "headlines": [
+      "Organic farming: better per hectare, but not per kilogram of food",
+      "Berliner Weltkriegsbunker wird versteigert: Was er über Schutzräume heute verrät",
+      "Zarewitsch: Wie der Titel des russischen Thronfolgers entstand und sich wandelte",
+      "Frauentennis sucht nach finanziell schwachem Jahr neue Wege"
+    ],
+    "thinking": "Die falsche Bezugsgröße",
+    "urls": [
+      "https://ourworldindata.org/is-organic-farming-better-for-the-environment-than-conventional-farming",
+      "https://de.euronews.com/2026/11/19/weltkriegsbunker-in-berlin-wird-versteigert-mindestgebot-398000-euro",
+      "https://de.wikipedia.org/wiki/Zarewitsch",
+      "https://www.derstandard.at/story/3000000349861/frauen-tennis-will-nach-finanziell-schwierigem-jahr-neue-wege-gehen?ref=rss"
+    ]
+  },
+  {
     "date": "2026-11-18",
     "title": "Voyager-Distanz und blinde Mutationen",
     "domains": [

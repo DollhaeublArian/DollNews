@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-19",
+  "title": "Bio-Äcker, Bunker und Zarentitel",
+  "articles": [
+    {
+      "domain": "Geografie",
+      "lang": "en",
+      "headline": "Organic farming: better per hectare, but not per kilogram of food",
+      "summary": "Many people assume organic food is automatically the greener choice, but the research is more mixed. Organic farming means growing crops or raising livestock without synthetic fertilizers, pesticides or GMOs. A 2024 meta-analysis of 100 assessment studies found two clear patterns. Organic farming almost always scores better on ecotoxicity, the harm that chemical inputs do to plants, insects and aquatic life, and it tends to support more biodiversity on the farmed field, although that effect shrinks when looking at a whole farm or its surroundings. Conventional farming wins on land use: with lower yields, organic farming needed a median of 64% more land per kilogram of food. For greenhouse gas emissions, acidification and eutrophication there was no statistically significant difference per kilogram, even though organic does better per hectare. The reason is that lower yields cancel out the per-hectare gains. The author adds that what you eat matters far more than how it was farmed: beef versus peas differs by thousands of percent, organic versus conventional by perhaps 5 to 50%.",
+      "whyItMatters": "It shows that a well-meant label can hide trade-offs, and that the choice of food usually matters more for the climate than the farming method.",
+      "thinkQuestion": "If organic farming needs more land but harms local wildlife less, how would you weigh a bit more farmland against fewer pesticides, and what else would you want to know before deciding?",
+      "source": {
+        "name": "Our World in Data",
+        "url": "https://ourworldindata.org/is-organic-farming-better-for-the-environment-than-conventional-farming"
+      }
+    },
+    {
+      "domain": "Länder & Kulturen",
+      "lang": "de",
+      "headline": "Berliner Weltkriegsbunker wird versteigert: Was er über Schutzräume heute verrät",
+      "summary": "Im Keller des Hauses Kaiserdamm 102 in Berlin-Charlottenburg steht ein alter Luftschutzbunker, der am 17. Dezember versteigert wird. Das Mindestgebot liegt bei 398.000 Euro. Nach Angaben der Auktionsverantwortlichen wurde der auffallend hohe Keller schon 1936 zum Bunker umgebaut, also drei Jahre vor Beginn des Zweiten Weltkriegs, als die militärischen Vorbereitungen des NS-Regimes längst liefen. Das Interesse an solchen Räumen ist heute groß: Die Nachfrage nach privaten Schutzräumen ist laut einer Baufirma seit Beginn des Krieges in der Ukraine 2022 klar gestiegen. Ein privater Schutzraum beginnt demnach bei etwa 75.000 Euro, der Bau dauert mindestens drei Monate. Öffentliche Schutzräume sind dagegen rar: Nach Angaben der Bundesregierung gibt es bundesweit nur noch 579 mit einer theoretischen Kapazität von rund 478.000 Plätzen, also etwa 0,57 Prozent der gut 83 Millionen Einwohner. Das Innenministerium kündigte nach Jahrzehnten des Sparens einen Pakt für den Bevölkerungsschutz mit rund 10 Milliarden Euro bis 2029 an.",
+      "whyItMatters": "Ein einzelner Keller zeigt, wie sich der Umgang mit Zivilschutz zwischen Aufrüstung, Kaltem Krieg und heutiger Verunsicherung verschoben hat.",
+      "thinkQuestion": "Ist ein privater Schutzraum eine vernünftige Vorsorge oder ein Zeichen dafür, dass öffentliche Vorsorge fehlt – und wer sollte Schutz bezahlen?",
+      "source": {
+        "name": "euronews",
+        "url": "https://de.euronews.com/2026/11/19/weltkriegsbunker-in-berlin-wird-versteigert-mindestgebot-398000-euro"
+      }
+    },
+    {
+      "domain": "Geschichte",
+      "lang": "de",
+      "headline": "Zarewitsch: Wie der Titel des russischen Thronfolgers entstand und sich wandelte",
+      "summary": "Zarewitsch bedeutet auf Russisch Zarensohn und war der Adelstitel der Thronfolger und männlichen Nachkommen des Zaren. Er wird seit der Annahme des Zarentitels durch Iwan den Schrecklichen 1547 verwendet. Als Peter der Große seinen Sohn und Thronfolger Alexei wegen einer Verschwörung einsperren ließ und dieser 1718 starb, kam der Titel zeitweise außer Gebrauch; im 18. Jahrhundert hießen Verwandte des Kaisers stattdessen Großfürsten. 1797 führte Paul I. den Titel in der Form Zessarewitsch, Kaisersohn, wieder ein, als besondere Bezeichnung des jeweiligen Thronfolgers. Der erste Träger dieser Kategorie war der spätere Alexander I., der letzte der bluterkranke Alexej Nikolajewitsch, der im Juli 1918 mit seiner Familie von den Bolschewiki ermordet wurde. Umgangssprachlich wird Zarewitsch fälschlich für alle Thronfolger nach 1797 benutzt. Alexander III. beschränkte den Großfürstentitel später auf Söhne und Enkel eines Kaisers, weil die Dynastie stark gewachsen war.",
+      "whyItMatters": "Titel zeigen, wie Herrschaft geregelt wurde, und Märchen und Alltagssprache verwischen oft die historischen Unterschiede.",
+      "thinkQuestion": "Was verraten Regeln zur Thronfolge über die Ängste einer Dynastie, und wo gibt es heute ähnliche Regeln, die Macht absichern sollen?",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Zarewitsch"
+      }
+    },
+    {
+      "domain": "Sport",
+      "lang": "de",
+      "headline": "Frauentennis sucht nach finanziell schwachem Jahr neue Wege",
+      "summary": "Die Tennis-Tour der Frauen muss sich nach einem finanziell miserablen Jahr neu erfinden. Das berichtet der Standard über die WTA, deren Chefin Valerie Camillo das Frauentennis in neue Bahnen lenken will. Die Zahlen zeigen die Kluft: Beim Saisonfinale der Frauen in Indian Wells wurden zehn Millionen Dollar Preisgeld verteilt, bei den Männern diese Woche in Turin sind es 15 Millionen. Laut dem Text spiegelt dieser Unterschied die Entwicklung der beiden Tour-Organisatoren ATP und WTA in den vergangenen Jahren wider. Eine Fusion von Frauen- und Männer-Tour ist demnach ein Ziel, aktuell aber kein Thema, weil die Kräfteverhältnisse zu unterschiedlich sind. Wichtige Veränderungen sollen dafür sorgen, dass die Frauen wieder mit den Männern gleichziehen. Mehr Details nennt die Quelle nicht.",
+      "whyItMatters": "Preisgeld hängt an Organisation, Vermarktung und Verhandlungsmacht der Verbände, nicht nur an sportlicher Leistung.",
+      "thinkQuestion": "Wäre eine gemeinsame Tour für Frauen und Männer fairer oder würde die schwächere Seite darin untergehen? Welche Annahmen stecken in Ihrer Antwort?",
+      "source": {
+        "name": "Der Standard Sport",
+        "url": "https://www.derstandard.at/story/3000000349861/frauen-tennis-will-nach-finanziell-schwierigem-jahr-neue-wege-gehen?ref=rss"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Die falsche Bezugsgröße",
+    "explanation": "Ob etwas gut oder schlecht abschneidet, hängt davon ab, worauf man es bezieht. Pro Hektar kann ein Verfahren besser sein, pro Kilogramm Ertrag aber nicht, weil sich beide Größen unterscheiden. Wer die Bezugsgröße unbemerkt wechselt oder nie hinterfragt, zieht schnell einen falschen Schluss. Deshalb lohnt die Frage: Pro was wird hier eigentlich verglichen, und ist das die Größe, die für meine Entscheidung zählt?",
+    "example": "Ein Auto verbraucht pro 100 Kilometer wenig, aber wer wegen der Sparsamkeit viel mehr fährt, verbraucht insgesamt mehr. Ein Supermarkt wirbt mit weniger Zucker pro 100 Gramm, doch die Packung ist doppelt so groß.",
+    "selfCheck": "Habe ich bei der letzten Zahl, die mich überzeugt hat, gefragt, worauf sie sich bezieht – und ob das für meine Entscheidung die richtige Größe ist?"
+  },
+  "quiz": [
+    {
+      "question": "Warum schneidet Bio-Landwirtschaft pro Kilogramm Lebensmittel bei Treibhausgasen nicht besser ab als konventionelle?",
+      "options": [
+        "Sie verbraucht keine Energie",
+        "Die geringeren Erträge heben die Vorteile pro Hektar auf",
+        "Sie nutzt mehr synthetische Dünger",
+        "Sie wird nur in kalten Regionen betrieben"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pro Hektar ist Bio besser, aber wegen geringerer Erträge verschwinden die Vorteile pro Kilogramm Nahrung."
+    },
+    {
+      "question": "Wann wurde der Keller am Kaiserdamm 102 laut den Auktionsverantwortlichen zum Luftschutzbunker umgebaut?",
+      "options": [
+        "1914",
+        "1936",
+        "1945",
+        "2022"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Umbau erfolgte 1936, drei Jahre vor Beginn des Zweiten Weltkriegs."
+    },
+    {
+      "question": "Was bedeutet das Wort Zarewitsch?",
+      "options": [
+        "Zarenberater",
+        "Großfürst",
+        "Zarensohn",
+        "Kaiserliche Hoheit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zarewitsch heißt Zarensohn; Zessarewitsch bedeutet dagegen Kaisersohn."
+    },
+    {
+      "question": "Wie viel Preisgeld wurde beim Saisonfinale der Frauen in Indian Wells verteilt?",
+      "options": [
+        "Zehn Millionen Dollar",
+        "Fünfzehn Millionen Dollar",
+        "Fünf Millionen Dollar",
+        "Zwanzig Millionen Dollar"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Indian Wells waren es zehn Millionen Dollar, bei den Männern in Turin 15 Millionen."
+    }
+  ]
+}
