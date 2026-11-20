@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-20",
+  "title": "Grundwasser, Hormus und Durchschnittswerte",
+  "articles": [
+    {
+      "domain": "Wirtschaft",
+      "lang": "de",
+      "headline": "IEA: Die Hormus-Krise übertrifft die Ölschocks der 1970er Jahre",
+      "summary": "Die Internationale Energieagentur (IEA) stuft den Konflikt im Nahen Osten in ihrem jährlichen World Energy Outlook als größte Bedrohung der Energiesicherheit in der Geschichte ein. Auslöser sind die Luftangriffe der USA und Israels auf Iran, die im Februar begonnen haben. Seither blockiert Iran nach Angaben des Berichts die Straße von Hormus und greift Tankschiffe an. Vor der Krise lief durch diese Meerenge etwa ein Fünftel der weltweiten Öllieferungen. Weil Lieferungen ausfallen, steigen die Preise, und die Verbraucher tragen die Folgen zunehmend selbst: Regierungen haben zwar eingegriffen, doch andere Puffer werden aufgezehrt. Förderländer bringen mehr Öl auf den Markt und nutzen alternative Routen, China kauft weniger auf den internationalen Märkten. IEA-Chef Fatih Birol sieht keinen glaubwürdigen Weg zurück zum Zustand vor der Krise; je länger sie dauere, desto tiefer würden die Folgen. Für ihren Ausblick rechnet die IEA mit drei Szenarien, darunter eines mit Netto-Null-Emissionen bis 2050, und hat zwei weitere für eine anhaltende Krise ergänzt.",
+      "whyItMatters": "Der Fall zeigt, wie stark die Weltwirtschaft an einzelnen Engstellen wie einer Meerenge hängt und warum Energiepolitik immer auch Sicherheitspolitik ist.",
+      "thinkQuestion": "Birol vergleicht die Lage mit den Ölschocks der 1970er Jahre: Welche Annahmen stecken in einem solchen Vergleich, und was könnte ihn trotzdem hinken lassen?",
+      "source": {
+        "name": "euronews",
+        "url": "https://de.euronews.com/2026/11/20/iea-konflikt-naher-osten-gefahr-globale-energiesicherheit"
+      }
+    },
+    {
+      "domain": "Technik",
+      "lang": "de",
+      "headline": "Steigendes Grundwasser: Küstenstädten droht Gefahr auch von unten",
+      "summary": "Deiche und Schutzmauern halten nur das Wasser von oben ab. Steigt der Meeresspiegel, kann in flachen Küstengebieten aber auch der Grundwasserspiegel hinter der Küstenlinie steigen, weil sich der Wasserdruck unterirdisch fortpflanzt. Salziges Meerwasser ist dichter als Süßwasser und schiebt sich in durchlässigen Böden darunter landeinwärts, sodass das Grundwasser darüber nach oben gedrückt wird. Dann kann Wasser in Keller und schadhafte Abwasserrohre eindringen, Fundamente belasten und alte Schadstoffe aus dem Boden lösen. Forscher der University of California, Berkeley, identifizierten in der San-Francisco-Bucht bei einem Meter Anstieg mehr als 5.000 bekannte belastete Standorte, die betroffen sein könnten. Das sind mögliche Gefährdungsräume, keine nachgewiesenen Freisetzungen. Eine kleine Messstudie mit nur acht Proben fand in der Kanalluft in feuchten Perioden mehr Lösungsmittel, in Innenräumen jedoch nichts Auffälliges. Die Autoren folgern, dass Anpassungsplanung Grundwasser, Altlasten und Leitungen gemeinsam betrachten muss.",
+      "whyItMatters": "Schutz vor dem Meer ist mehr als eine Mauer: Wer Risiken nur an der Oberfläche sucht, übersieht Wege, auf denen Wasser und Schadstoffe unterirdisch wandern.",
+      "thinkQuestion": "Welche anderen Schutzmaßnahmen gegen ein sichtbares Problem könnten ein unsichtbares Risiko übersehen, und woran würde man das merken?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/geowissen/meeresspiegelanstieg-bedroht-kuestenstaedte-auch-von-unten/"
+      }
+    },
+    {
+      "domain": "Psychologie",
+      "lang": "en",
+      "headline": "Social media time and teen anxiety: a surprisingly weak link",
+      "summary": "Mental health disorders among Australians aged 16 to 24 rose from 26% in 2007 to 39% in 2022, a period in which smartphones gave young people constant access to social media. Does the time spent there cause anxiety and depression? Researchers pooled 37 longitudinal and experimental studies covering nearly 80,000 people aged 10 to 24 in 15 mostly high-income countries. They found only a very weak association: overall social media use accounted for less than 1% of the variation in symptom severity. The link was not stronger in younger teens, nor in newer studies from the era of algorithmic feeds and infinite scrolling. Only one study was a true experiment; it suggested that capping use at one hour a day helped participants who were already highly depressed. The other 36 were observational. The authors note that time spent does not capture harmful content such as cyberbullying, and that other outcomes, like body image, were not examined. They argue that restrictions alone, such as Australia's under-16 rules, may miss other causes.",
+      "whyItMatters": "Debates about a worrying trend often jump to one obvious culprit; careful pooling of evidence shows how much weaker such a link can be than intuition suggests.",
+      "thinkQuestion": "If an average effect is tiny, does that mean the effect is tiny for every young person? What would you need to know to tell?",
+      "source": {
+        "name": "The Conversation Psychology",
+        "url": "https://theconversation.com/does-time-on-social-media-make-teens-anxious-and-depressed-the-evidence-is-not-so-clear-293224"
+      }
+    },
+    {
+      "domain": "Kunst, Musik & Literatur",
+      "lang": "de",
+      "headline": "Wenders und der Schnitt: Was eine Szene einem Film nimmt – und wem sie etwas nimmt",
+      "summary": "Regisseur Wim Wenders hat nach öffentlichen Debatten eine umstrittene Nacktszene mit Nastassja Kinski aus seinem Film Falsche Bewegung herausgeschnitten. Gegenüber der Zeit sagte er, er habe den Schnitt mit der Cutterin gemacht und sich danach den ganzen Film noch einmal allein auf einer großen Leinwand angesehen. Sein Urteil: Ihm fehle nichts, der Film habe keinen Schaden genommen, aber ein Schaden sei von Kinski ferngehalten worden. Der Fall berührt eine alte Frage der Kunst: Darf ein Werk nachträglich verändert werden, wenn sich der Blick auf seine Entstehung wandelt, und wie wiegt man das Werk gegen die Interessen der Beteiligten ab? Über den Umfang der Debatte oder die Entscheidungsgründe gibt der vorliegende Text nicht mehr her, deshalb bleibt es bei dieser Darstellung von Wenders' eigener Einschätzung.",
+      "whyItMatters": "Er zeigt, dass Kunstwerke nicht endgültig abgeschlossen sind, sondern im Licht neuer Maßstäbe neu verhandelt werden können.",
+      "thinkQuestion": "Wer sollte darüber entscheiden, ob ein Werk nachträglich verändert wird: die Urheber, die Beteiligten oder das Publikum, und warum?",
+      "source": {
+        "name": "Der Standard Kultur",
+        "url": "https://www.derstandard.at/story/3000000350080/wim-wenders-entfernte-nacktszene-hat-dem-film-keinen-schaden-getan?ref=rss"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Der ökologische Fehlschluss: vom Durchschnitt auf den Einzelnen schließen",
+    "explanation": "Aussagen über eine ganze Gruppe gelten nicht automatisch für jedes ihrer Mitglieder. Ein schwacher Durchschnittseffekt kann sich aus Untergruppen zusammensetzen, in denen der Effekt stark, null oder sogar gegenläufig ist. Umgekehrt sagt ein starker Gruppeneffekt wenig über den Einzelfall. Wer vom Mittelwert auf den Einzelnen schließt, verwechselt zwei verschiedene Fragen. Im Beitrag zur Social-Media-Nutzung zeigt sich das Prinzip: Insgesamt war der Zusammenhang schwach, doch das eine Experiment deutete auf einen Nutzen für bereits stark depressive Jugendliche hin.",
+    "example": "Im Durchschnitt zahlt sich ein Medikament kaum aus, weil es nur bei einem von zehn Patienten wirkt. Für diesen einen ist es trotzdem entscheidend.",
+    "selfCheck": "Habe ich gerade eine Aussage über den Durchschnitt einer Gruppe auf eine einzelne Person oder ein einzelnes Land übertragen?"
+  },
+  "quiz": [
+    {
+      "question": "Welchen Anteil der weltweiten Öllieferungen führte vor der Krise etwa durch die Straße von Hormus?",
+      "options": [
+        "Etwa ein Zehntel",
+        "Etwa ein Drittel",
+        "Etwa ein Fünftel",
+        "Etwa die Hälfte"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Bericht lief vor Beginn der Krise etwa ein Fünftel der weltweiten Öllieferungen durch die Meerenge."
+    },
+    {
+      "question": "Warum kann der Grundwasserspiegel an Küsten steigen, auch wenn Deiche kein Meerwasser durchlassen?",
+      "options": [
+        "Salziges, dichteres Meerwasser schiebt sich unterirdisch landeinwärts und drückt das Grundwasser nach oben",
+        "Deiche leiten Regenwasser direkt in den Boden",
+        "Salzwasser verdunstet im Boden schneller",
+        "Schadstoffe erhöhen das Volumen des Grundwassers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Das dichtere Salzwasser schiebt sich unter das Süßwasser, wodurch das Grundwasser darüber ansteigt."
+    },
+    {
+      "question": "Wie viel der Schwankung in Angst- und Depressionssymptomen erklärte die Social-Media-Nutzungszeit in der Auswertung von 37 Studien?",
+      "options": [
+        "Etwa die Hälfte",
+        "Etwa ein Viertel",
+        "Etwa ein Zehntel",
+        "Weniger als 1 Prozent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Die Nutzungszeit erklärte weniger als 1 Prozent der Unterschiede in der Schwere der Symptome."
+    },
+    {
+      "question": "Wie begründete Wim Wenders sein Urteil über den Schnitt der Nacktszene?",
+      "options": [
+        "Der Film verliere ohne die Szene seine Handlung",
+        "Dem Film fehle nichts, aber ein Schaden sei von Nastassja Kinski ferngehalten worden",
+        "Das Publikum habe die Szene gefordert",
+        "Die Szene sei aus rechtlichen Gründen verboten gewesen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wenders sagte, der Film habe keinen Schaden genommen, aber Kinski sei ein Schaden erspart worden."
+    }
+  ]
+}
