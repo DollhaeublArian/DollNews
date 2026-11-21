@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-21",
+  "title": "Polarwirbel und die Risse im Kosmos",
+  "articles": [
+    {
+      "domain": "Politik & Gesellschaft",
+      "lang": "de",
+      "headline": "Gestörter Polarwirbel: Warum ein Ereignis in 30 Kilometern Höhe Europas Energiepreise beeinflussen kann",
+      "summary": "Der Polarwirbel ist ein Ring aus Westwinden, der in etwa 30 Kilometern Höhe die eisige Polarluft rund um den Nordpol festhält. Manchmal stören große atmosphärische Wellen diese Zirkulation: Die Winde schwächen sich ab oder drehen sich um, die Stratosphäre erwärmt sich rasant. Dann kann kalte Luft in die Troposphäre absinken, und der Jetstream verändert seine Form. In diesem Jahr ist eine solche plötzliche stratosphärische Erwärmung ungewöhnlich früh eingetreten. Wetterexperten sehen laut dem Marktdatendienst Montel eine höhere Wahrscheinlichkeit für kältere Temperaturen, mehr Wind und höheren Heizbedarf im kommenden Monat. Analysten betonen aber, dass einzelne Ereignisse kurzfristig seien; für einen Effekt über den ganzen Winter müsste sich das Phänomen wiederholen. Besonders brisant ist es, weil Europas Gasspeicher auf Rekordtiefs liegen. Wärmepumpen können helfen: Sie liefern typischerweise drei bis vier Kilowattstunden Wärme je eingesetzter Kilowattstunde Strom. Bei starker Kälte verbrauchen sie jedoch deutlich mehr Strom, und der gesamte Effekt auf die Gasnachfrage ist laut einem Branchenanalysten nicht sehr groß.",
+      "whyItMatters": "Das Beispiel zeigt, wie Atmosphärenphysik, Energiemärkte und Politik zusammenhängen und warum Wetterprognosen für Wochen so unsicher bleiben.",
+      "thinkQuestion": "Wie viel Gewicht sollte man einer Wetterwarnung geben, deren Urheber selbst sagen, dass die meisten Meteorologen die Folgen noch nicht einschätzen können?",
+      "source": {
+        "name": "euronews",
+        "url": "https://de.euronews.com/2026/11/21/europa-vor-kaltem-winter-nach-storung-des-polarwirbels-warmepumpen-drucken-energiekosten"
+      }
+    },
+    {
+      "domain": "Biologie",
+      "lang": "de",
+      "headline": "Winzige Fossilien aus Spitzbergen zeigen: Nach dem größten Massenaussterben lebte mehr, als man dachte",
+      "summary": "Vor rund 252 Millionen Jahren verschwanden beim Perm-Trias-Massensterben große Teile der Meeresfauna. Wie schnell sich das Leben erholte, ist schwer zu klären, denn aus der Zeit danach sind Fossilien lückenhaft überliefert. Das gilt besonders für Radiolarien, winzige einzellige Planktonorganismen mit meist kieseligen Skeletten. Ein ungarisches Team hat Gesteinsproben aus elf Horizonten bei Lusitaniadalen auf Spitzbergen untersucht; zwei enthielten viele gut erhaltene Exemplare. Unter den Funden der frühesten Trias sind drei neu beschriebene Arten und zwei neue Unterarten. Zwischen den Skeletten liegen außerdem Strukturen, die wahrscheinlich Reste sogenannter Zentralkapselmembranen sind, empfindlicher organischer Zellhüllen, die normalerweise rasch zerfallen. Stimmt die Deutung, wären es die ältesten bekannten Überreste solcher Membranen. Die Kieselskelette wurden weitgehend durch Tonminerale ersetzt, was die Fossilien womöglich bewahrt hat. Eine Auswertung bekannter Funde ergibt, dass 44 von 73 Radiolariengattungen die Katastrophe zunächst überlebten. Ob das nördliche Meer ein Zufluchtsort war oder nur die Erhaltung begünstigte, bleibt offen. Eine rasche Erholung der gesamten Meereswelt belegen die Funde nicht.",
+      "whyItMatters": "Wer aus Fossilien auf das Leben der Vergangenheit schließt, muss zwischen echtem Verschwinden und schlechter Überlieferung unterscheiden.",
+      "thinkQuestion": "Wo in deinem Alltag hältst du etwas für nicht vorhanden, nur weil du keine Spuren davon siehst?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/biowissen/fossilien-enthuellen-ueberraschende-artenvielfalt-nach-dem-groessten-massenaussterben/"
+      }
+    },
+    {
+      "domain": "Physik & Chemie",
+      "lang": "en",
+      "headline": "After 20 years, the Dark Energy Survey finds cracks in the standard model of cosmology",
+      "summary": "In 1998, two teams found that exploding stars were racing away from Earth faster than expected: the expansion of the universe was speeding up. The unknown cause was named dark energy, thought to make up roughly two-thirds of the cosmos. The standard model, Lambda-CDM, treats it as a constant vacuum energy. The Dark Energy Survey (DES) spent two decades studying how dark energy shapes what we see. Its final results, shared in May 2026, combine a map of how matter clumps over time, 1,600 supernovas, galaxy data from a second project called DESI, and an image of the early universe known as the cosmic microwave background. Together they fit Lambda-CDM not very well. They fit somewhat better with dark energy that has weakened in recent eons. That preference is at the three-sigma level, enough to draw attention but short of the five-sigma needed to claim a discovery. Notably, no single dataset can be dropped to make everything fit, which makes a hidden error in one measurement less likely. Cosmologists cannot yet say what is missing, and the field is back in a state of confusion.",
+      "whyItMatters": "It shows how science works at its edge: a successful model is stress-tested until small mismatches appear, and the statistics of those mismatches decide whether they count.",
+      "thinkQuestion": "If three independent measurements each disagree slightly with a theory, when does it make sense to abandon the theory, and what would you want to see first?",
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/"
+      }
+    },
+    {
+      "domain": "Medizin",
+      "lang": "de",
+      "headline": "Warum Kaffee trotz Bitterkeit zur Gewohnheit wird: ein Lernsignal aus dem Darm",
+      "summary": "Der erste echte Kaffee enttäuscht meist: Der Duft verspricht viel, auf der Zunge schmeckt es eher nach bitterer Medizin. Viele tasten sich über Umwege heran, etwa über milderen, koffeinfreien Malzkaffee. Dass sich der Geschmack mit der Zeit ändert, könnte an einem Lernprozess im Gehirn liegen. Forschende haben nach Angaben des Berichts ein Lernsignal aus dem Darm entdeckt, das unsere Vorlieben formt. Es dient eigentlich dazu, Aromen mit Nährwert schätzen zu lernen. Der Text bleibt bei den Details knapp, etwa zu Studie und Mechanismus. Er legt aber nahe, dass Vorlieben nicht allein auf der Zunge entstehen, sondern auch daraus, was der Körper nach dem Genuss rückmeldet.",
+      "whyItMatters": "Geschmack ist offenbar auch erlernt, was erklärt, warum sich Vorlieben und Gewohnheiten verändern können.",
+      "thinkQuestion": "Welche deiner Vorlieben hältst du für angeboren, und was spräche dafür, dass du sie erst gelernt hast?",
+      "source": {
+        "name": "Der Standard Wissenschaft",
+        "url": "https://www.derstandard.at/story/3000000348979/warum-uns-kaffee-trotz-seiner-bitterkeit-suechtig-macht?ref=rss"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Bestätigungsfehler: Man sieht, was man erwartet",
+    "explanation": "Der Bestätigungsfehler beschreibt die Neigung, Informationen bevorzugt zu beachten und zu glauben, die zur eigenen Erwartung passen, und widersprechende Hinweise zu übersehen oder abzuwerten. Er wirkt meist unbemerkt und trifft auch Fachleute. Wissenschaftliche Methoden wie unabhängige Messungen, vorab festgelegte Prüfkriterien und strenge Schwellen für Entdeckungen sollen ihn begrenzen. Ein Schutz im Alltag ist, gezielt nach Belegen zu suchen, die die eigene Annahme widerlegen würden.",
+    "example": "Wer glaubt, dass auf einen kalten Wintertag immer ein kalter Winter folgt, merkt sich jeden frostigen Morgen als Beweis und vergisst die milden Wochen dazwischen.",
+    "selfCheck": "Habe ich zu meiner Überzeugung zuletzt aktiv nach einem Argument dagegen gesucht, oder nur nach weiteren Bestätigungen?"
+  },
+  "quiz": [
+    {
+      "question": "Was hält der Polarwirbel laut Beitrag in etwa 30 Kilometern Höhe fest?",
+      "options": [
+        "Warme Tropenluft",
+        "Eisige Polarluft rund um den Nordpol",
+        "Den Jetstream über dem Atlantik",
+        "Wolken der Troposphäre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Polarwirbel ist ein Ring aus Westwinden, der die eisige Polarluft um den Nordpol zusammenhält."
+    },
+    {
+      "question": "Welche Organismen wurden auf Spitzbergen untersucht, um die Erholung nach dem Perm-Trias-Massensterben zu verstehen?",
+      "options": [
+        "Trilobiten",
+        "Ammoniten",
+        "Radiolarien",
+        "Korallen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Die Studie untersuchte Radiolarien, winzige einzellige Planktonorganismen mit meist kieseligen Skeletten."
+    },
+    {
+      "question": "Warum sprechen Kosmologen noch nicht von einer Entdeckung schwächer werdender Dunkler Energie?",
+      "options": [
+        "Die Abweichung liegt bei etwa drei Sigma, nötig wären fünf",
+        "Die Studie fand keine Supernovas",
+        "Alle Datensätze passten perfekt zum Standardmodell",
+        "Dunkle Energie wurde als konstant bestätigt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drei Sigma wecken Aufmerksamkeit, für eine Entdeckung braucht es aber fünf Sigma."
+    },
+    {
+      "question": "Wozu dient das im Beitrag beschriebene Lernsignal aus dem Darm eigentlich?",
+      "options": [
+        "Koffein abzubauen",
+        "Bitterstoffe zu erkennen",
+        "Aromen mit Nährwert schätzen zu lernen",
+        "Müdigkeit zu verhindern"
+      ],
+      "correctIndex": 2,
+      "explanation": "Das Signal dient eigentlich dazu, Aromen mit Nährwert zu schätzen, und formt so unsere Vorlieben."
+    }
+  ]
+}
