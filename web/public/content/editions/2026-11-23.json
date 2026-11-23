@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-23",
+  "title": "Georgiens Rugby, Fusionsplasma und Umfragen",
+  "articles": [
+    {
+      "domain": "Sport",
+      "lang": "de",
+      "headline": "Georgiens Rugby-Team: Vom verbotenen Sport zur Spitze Europas",
+      "summary": "Georgiens Rugby-Nationalmannschaft, die „Lelos“, gehört zu den stärksten europäischen Teams außerhalb der Six Nations. Ihr Name stammt von Lelo burti, einem alten Vollkontaktspiel, bei dem mehrere hundert Spieler einen schweren Ball über ein Feld drängen. In der Sowjetzeit hatte Rugby es schwer: Es galt als elitär-britisch, und Stalin verhängte 1947 sogar ein zeitweiliges Verbot. Erst nach seiner Ära fasste der Sport Fuß, vor allem dank des französischen Lehrers Jacques Haspékian und des Vereins Dinamo Tiflis. 1964 entstand der Verband, 1991 folgte die Unabhängigkeit. Trotz Bürgerkrieg und Wirtschaftskrise gelangen Erfolge, obwohl Mitte der 1990er nur zwei Rugbybälle zur Verfügung standen und Spieler einen alten Traktor als Gedrängemaschine nutzten. Französische Vereine verpflichteten bald georgische Spieler, was das Niveau hob. Die Mannschaft holte 17 Europameistertitel und nahm an sechs Weltmeisterschaften teil. Ihr bestes Ergebnis war 2015 der dritte Gruppenplatz. Viele Spieler verdienen ihr Geld bis heute in Frankreich und anderen westeuropäischen Ligen.",
+      "whyItMatters": "Das Beispiel zeigt, wie eine Sportart auf einer lokalen Volkstradition aufbauen und trotz politischer Widerstände und fehlender Mittel zur Spitze finden kann.",
+      "thinkQuestion": "Georgien baute auf einem bereits bekannten Volkssport auf: Welche Rolle spielen solche Vorläufer, wenn eine neue Sportart in einem Land populär wird, und wo könnte der Vergleich hinken?",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Georgische_Rugby-Union-Nationalmannschaft"
+      }
+    },
+    {
+      "domain": "Wirtschaft",
+      "lang": "en",
+      "headline": "Americans and AI: why the survey wording matters, and why the result still holds",
+      "summary": "Online debates about artificial intelligence are loud, but they do not represent the public. So an Our World in Data researcher compared five recent US surveys that use probability samples, meaning respondents were chosen at random and results weighted to match the adult population. Opt-in online polls were left out because they can be badly biased; one such poll found that 20% of Americans under 30 agreed the Holocaust is a myth, while Pew's probability-based panel found 3%. The wording of a question does shift results: when a middle answer is offered, many people take it, 37% in Pew's survey. Even so, every survey finds more negative than positive views of AI. In Pew's data, 52% are more concerned than excited and 9% more excited than concerned, up from roughly two to one in 2021. Concern spans both parties. The exception is the question about AI's effect on respondents personally, where Ipsos found opinion split about evenly, 50% good versus 49% bad.",
+      "whyItMatters": "It shows how to judge a poll: check who was asked and how, then see whether different methods point the same way.",
+      "thinkQuestion": "If the answers shift with wording but the overall direction stays the same, how much weight would you give a single survey result, and what would convince you that a poll is trustworthy?",
+      "source": {
+        "name": "Our World in Data",
+        "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai"
+      }
+    },
+    {
+      "domain": "Technik",
+      "lang": "de",
+      "headline": "Kernfusion: Neue Theorie erklärt, wann Turbulenzen am Plasmarand nachlassen",
+      "summary": "Damit Kernfusion gelingt, muss ein Millionen Grad heißes Plasma seine Energie möglichst lange halten. In Tokamaks halten Magnetfelder es von der Wand fern, doch Turbulenzen tragen ständig Wärme nach außen. Seit 1982 ist bekannt, dass das Plasma bei genug Heizleistung in den H-Modus wechseln kann, in dem am Rand eine Barriere gegen Wärmeverluste entsteht. Warum die nötige Schwelle von Dichte und Magnetfeldrichtung abhängt, war nicht einheitlich erklärt. Forscher der EPFL zeigen per Simulation: Die Turbulenzen erzeugen selbst Scherströmungen, die weitere Turbulenzen bremsen. Daraus folgt ein Minimum der Schwelle bei mittlerer Dichte. Für ITER errechnen sie mindestens 43 ± 11 Megawatt bei geplanten 73 Megawatt. Für SPARC kommen 26 ± 7 Megawatt heraus, bei angesetzten 25 Megawatt, weshalb unklar bleibt, ob der Übergang dort zuverlässig gelingt. Die Formeln beruhen teils auf angepassten Faktoren, und einige Messwerte weichen ab. Sie liefern also eine begründete Abschätzung, keine bestätigte exakte Schwelle und keinen Nachweis positiver Energiebilanz.",
+      "whyItMatters": "Wer verstehen will, warum Fusionsreaktoren so schwer zu bauen sind, sieht hier, dass der Kampf gegen Wärmeverluste ebenso zentral ist wie das Erreichen der Hitze.",
+      "thinkQuestion": "Die Zahlen für ITER und SPARC sind Modellrechnungen, keine Messungen: Wie würdest du entscheiden, ab wann man einer solchen Vorhersage für teure Anlagen vertrauen darf?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/physik/neue-theorie-koennte-ein-jahrzehntealtes-raetsel-der-kernfusion-klaeren/"
+      }
+    },
+    {
+      "domain": "Psychologie",
+      "lang": "de",
+      "headline": "Milchstraße: Wie neue Maser-Messungen den Streit um den Balken entschärfen",
+      "summary": "Die Milchstraße ist eine Balkenspirale: Durch ihr Zentrum läuft eine Struktur erhöhter Sternendichte, an der die Spiralarme ansetzen. Weil wir mitten in der Galaxie sitzen und Staub die Sicht verdeckt, war lange strittig, wie lang der Balken ist und wie schnell er rotiert. Indirekte Methoden über Sternbewegungen ergaben rund 16.300 Lichtjahre und langsame Rotation, direkte Messungen gut 11.400 Lichtjahre und schnellere Rotation. Ein Team um Hillary Davis wertete nun Maser aus, Quellen gebündelter Mikrowellen, die den Staub durchdringen. Manche Maser, die man dem Norma-Spiralarm zuordnete, passen laut ihren Simulationen zur Schockfront des Balkens. Möglicherweise ist ein Teil des Norma-Arms also eine Sternentstehungsregion am Balkenrand. Das Team schätzt den Balken auf etwa 14.000 Lichtjahre Länge und die Rotation auf rund 40 Kilometer pro Sekunde pro Kiloparsec: ein langer, langsamer Balken. Das passt dazu, dass an seinen Rändern doch Sterne entstehen, was in anderen Balkengalaxien eher ungewöhnlich ist.",
+      "whyItMatters": "Der Fall zeigt, wie verschiedene Messmethoden zu widersprüchlichen Bildern führen können und wie neue Daten ein bisher gewohntes Weltbild korrigieren.",
+      "thinkQuestion": "Zwei Methoden lieferten verschiedene Balkenlängen: Woran könntest du erkennen, welcher Messung du eher traust, und welche Annahmen stecken in beiden?",
+      "source": {
+        "name": "wissenschaft.de",
+        "url": "https://wissenschaft.de/artikel/ist-die-milchstrasse-anders-aufgebaut-als-gedacht"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Der Rahmungseffekt: Wie die Frage die Antwort lenkt",
+    "explanation": "Menschen urteilen nicht nur nach dem Inhalt einer Information, sondern auch danach, wie sie präsentiert wird. Dieselbe Sache klingt anders, wenn man sie als Gewinn oder als Verlust beschreibt oder wenn bestimmte Antwortoptionen angeboten werden. Das nennt man Rahmungseffekt (Framing). Er wirkt, ohne dass wir ihn bemerken, und wird in Umfragen, Werbung und Politik genutzt. Die Umfragen zu KI zeigen im Kleinen, wie Antworten schwanken, wenn eine Mittelkategorie angeboten wird.",
+    "example": "Ein Joghurt mit „90 % fettfrei“ wirkt gesünder als einer mit „10 % Fett“, obwohl beides dasselbe bedeutet.",
+    "selfCheck": "Habe ich mein Urteil nach dem Inhalt gebildet, oder hat mich die Formulierung gelenkt? Würde ich anders urteilen, wenn dieselbe Sache umgekehrt formuliert wäre?"
+  },
+  "quiz": [
+    {
+      "question": "Warum wurden in der KI-Umfrage-Auswertung Opt-in-Online-Umfragen weggelassen?",
+      "options": [
+        "Sie sind zu teuer",
+        "Sie können stark verzerrt sein, weil jeder teilnehmen darf",
+        "Sie fragen nur Jugendliche",
+        "Sie enthalten keine Zahlen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Offene Panels sind nicht zufällig zusammengesetzt, was zu stark verzerrten Ergebnissen führen kann."
+    },
+    {
+      "question": "Wovon leitet sich der Spitzname „Lelos“ der georgischen Rugby-Nationalmannschaft ab?",
+      "options": [
+        "Von einem Fluss",
+        "Von einer Stadt",
+        "Von einem Trainer",
+        "Vom alten Volkssport Lelo burti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lelo burti ist ein rugbyähnliches Vollkontaktspiel, von dem auch das georgische Wort für Versuch stammt."
+    },
+    {
+      "question": "Wie entsteht laut der neuen Theorie die Barriere gegen Wärmeverluste im H-Modus?",
+      "options": [
+        "Turbulenzen erzeugen selbst Scherströmungen, die weitere Turbulenzen bremsen",
+        "Das Magnetfeld wird abgeschaltet",
+        "Das Plasma wird abgekühlt",
+        "Die Reaktorwand wird erhitzt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die Scherströmungen zwischen benachbarten Plasmaschichten hemmen Turbulenzen, sodass weniger Wärme entweicht."
+    },
+    {
+      "question": "Warum nutzten Astronomen Maser, um den Milchstraßenbalken zu untersuchen?",
+      "options": [
+        "Sie leuchten im sichtbaren Licht besonders hell",
+        "Sie bewegen sich schneller als Licht",
+        "Ihre Mikrowellen durchdringen den Staub im Zentrum",
+        "Sie sind nur im Balken zu finden"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mikrowellen durchdringen den Staub, der die Sicht auf das Zentrum der Milchstraße verdeckt."
+    }
+  ]
+}
