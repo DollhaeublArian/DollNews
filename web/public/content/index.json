@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-24",
+    "title": "Literaturpreis, DNA-Reparatur und Eisbäder",
+    "domains": [
+      "Kunst, Musik & Literatur",
+      "Biologie",
+      "Physik & Chemie",
+      "Medizin"
+    ],
+    "headlines": [
+      "Österreichischer Buchpreis 2026 für Elias Hirschls Roman „Schleifen“",
+      "Why gene editing depends on DNA's built-in repair crews",
+      "Hall-Effekt ohne Magnetismus: Ein starkes elektrisches Feld kann genügen",
+      "Eisbäder nach dem Sport: Hilfreich bei kurzer Pause, nachteilig beim Muskelaufbau"
+    ],
+    "thinking": "„Das hilft immer“: Warum Ratschläge ohne Ziel wenig wert sind",
+    "urls": [
+      "https://www.derstandard.at/story/3000000350502/oesterreichischer-buchpreis-geht-an-elias-hirschl-fuer-schleifen?ref=rss",
+      "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "https://www.scinexx.de/news/physik/neuartiger-hall-effekt-kann-ganz-ohne-magnetismus-entstehen/",
+      "https://wissenschaft.de/artikel/wann-eisbaeder-nach-dem-sport-helfen-und-wann-nicht"
+    ]
+  },
+  {
     "date": "2026-11-23",
     "title": "Georgiens Rugby, Fusionsplasma und Umfragen",
     "domains": [

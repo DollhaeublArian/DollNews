@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-24",
+  "title": "Literaturpreis, DNA-Reparatur und Eisbäder",
+  "articles": [
+    {
+      "domain": "Kunst, Musik & Literatur",
+      "lang": "de",
+      "headline": "Österreichischer Buchpreis 2026 für Elias Hirschls Roman „Schleifen“",
+      "summary": "Der Österreichische Buchpreis 2026 geht an Elias Hirschl für seinen Roman „Schleifen“, der Anfang des Jahres erschienen ist. Die Auszeichnung ist mit 20.000 Euro dotiert und wurde am Montagabend im Wiener Konzerthaus vergeben, im Vorfeld der Buch Wien. Überreicht wurde sie von Kulturminister Andreas Babler. Den Debütpreis erhielt Marlen Mairhofer. Im Zentrum des Romans stehen die begabte junge Frau Franziska Denk und der Mathematiker Otto Mandl, den sie 1952 kennenlernt. Von dort aus führt das Buch durch Philosophiegeschichte, Sprachwissenschaft und Mathematik bis zu Minimal Music und Pharmakologie und reicht bis in die Gegenwart. Auch formal ist es abwechslungsreich: Hirschl mischt klassisches Erzählen mit Befragungsprotokollen und E-Mails. Der Standard spricht von einem großen, kunstvollen Spaß voller Ideen und Sprachwitz. Für den Deutschen Buchpreis war Hirschl mit demselben Buch ebenfalls nominiert und stand auf der Shortlist, ging dort aber leer aus. Dasselbe Werk kann bei verschiedenen Jurys also ganz unterschiedlich abschneiden.",
+      "whyItMatters": "Literaturpreise lenken Aufmerksamkeit, aber ihre Entscheidungen sind Urteile einzelner Jurys und kein objektives Maß für Qualität.",
+      "thinkQuestion": "Wenn dasselbe Buch bei einem Preis gewinnt und bei einem anderen leer ausgeht: Woran würden Sie festmachen, ob es ein gutes Buch ist?",
+      "source": {
+        "name": "Der Standard Kultur",
+        "url": "https://www.derstandard.at/story/3000000350502/oesterreichischer-buchpreis-geht-an-elias-hirschl-fuer-schleifen?ref=rss"
+      }
+    },
+    {
+      "domain": "Biologie",
+      "lang": "en",
+      "headline": "Why gene editing depends on DNA's built-in repair crews",
+      "summary": "DNA is the cell's instruction manual, yet it is surprisingly fragile. Enzymes must physically touch it to read it, and everyday metabolism, radiation and chemicals damage it constantly. One researcher estimates that some cells suffer up to 100,000 damage events a day, so repair had to evolve together with DNA itself. A single damaged base is popped out and replaced by base excision repair, while nucleotide excision repair cuts out bulkier chunks and copies the complementary strand. The worst injury is a double-strand break, which triggers a response involving more than 500 proteins. Cells then mostly use non-homologous end joining, which glues the ends back together but can lose nucleotides, or the more accurate homologous recombination, available only after DNA has been copied, which uses the sister chromatid as a template. Gene editing exploits these pathways: in 1994 Maria Jasin's team showed that a deliberate break lets a supplied gene be stitched in. CRISPR-Cas later made cutting easier, and base editing works without breaks, though a 2026 study found it not precise enough for human embryos.",
+      "whyItMatters": "It shows that DNA is not a sealed blueprint but a constantly repaired working document, and that every gene-editing tool borrows the cell's own repair machinery.",
+      "thinkQuestion": "If imperfect repair is also what makes evolution possible, how should we weigh the risks of deliberately editing genes against the benefits?",
+      "source": {
+        "name": "Quanta Magazine",
+        "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/"
+      }
+    },
+    {
+      "domain": "Physik & Chemie",
+      "lang": "de",
+      "headline": "Hall-Effekt ohne Magnetismus: Ein starkes elektrisches Feld kann genügen",
+      "summary": "Beim klassischen Hall-Effekt wird ein stromdurchflossener Leiter von einem senkrechten Magnetfeld durchsetzt. Die bewegten Ladungsträger werden seitlich abgelenkt, und an den Rändern entsteht eine Spannung, mit der sich unter anderem Magnetfelder messen lassen. In manchen magnetischen Materialien tritt eine solche Querreaktion auch ohne äußeres Feld auf, weil die innere magnetische Ordnung die Zeitumkehrsymmetrie bricht. Eine theoretische Studie der Rice University um Qimiao Si zeigt nun, dass ein ausreichend starkes elektrisches Feld in bestimmten nichtmagnetischen Quantenmaterialien eine ähnliche Reaktion hervorrufen kann. Anlass waren Messungen an einem Weyl-Kondo-Halbmetall aus Cer, Bismut und Palladium mit einem rätselhaften Hall-Signal ohne Magnetfeld. Im Modell wächst der Hall-Strom bei schwachen Feldern mit dem Quadrat der Feldstärke und bei hohen Feldern etwa proportional dazu. Das Material wird dabei nicht magnetisch, sondern das Feld treibt es aus dem Gleichgewicht. Die Ergebnisse sind ein möglicher Erklärungsansatz, aber noch keine experimentelle Bestätigung.",
+      "whyItMatters": "Ein Messsignal, das typisch für Magnetismus ist, kann auch eine andere Ursache haben. Das mahnt Forschende, Schlüsse aus einem einzelnen Indiz vorsichtig zu ziehen.",
+      "thinkQuestion": "Welche anderen Messergebnisse gelten als Beweis für eine bestimmte Ursache, obwohl vielleicht auch andere Erklärungen möglich wären?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/physik/neuartiger-hall-effekt-kann-ganz-ohne-magnetismus-entstehen/"
+      }
+    },
+    {
+      "domain": "Medizin",
+      "lang": "de",
+      "headline": "Eisbäder nach dem Sport: Hilfreich bei kurzer Pause, nachteilig beim Muskelaufbau",
+      "summary": "Ein Bad in kaltem Wasser nach dem Training gilt als Regenerationsmittel und ist bei Profis wie im Hobbysport beliebt. Ein Team um Erfan Berjisian von der Edith Cowan University hat 15 Metastudien mit 161 Einzelstudien und mehr als 3.200 Teilnehmenden ausgewertet. Das Ergebnis: Kaltwasserbäder sind kein universelles Mittel, ihr Nutzen hängt von Trainingsziel, Art der Einheit und dem Zeitpunkt der nächsten Belastung ab. Sie können Muskelkater lindern, Marker für Muskelschäden lagen 24 bis 72 Stunden danach niedriger, und die Ausdauerleistung verbesserte sich schon innerhalb der ersten Stunde. Besonders sinnvoll scheinen sie bei knapper Erholungszeit, etwa bei Turnieren. Nachteile gibt es aber ebenfalls: Die Sprungleistung war in den ersten Stunden beeinträchtigt, und wer nach dem Krafttraining regelmäßig eisbadete, gewann langsamer Muskelmasse, Kraft und Leistung. Beim Ausdauersport zeigte sich das nicht. Als wirksam gelten zehn bis 15 Minuten bei zehn bis 15 Grad.",
+      "whyItMatters": "Ein beliebtes Hausmittel hilft nur unter bestimmten Bedingungen und kann das eigentliche Trainingsziel sogar bremsen.",
+      "thinkQuestion": "Welche Gewohnheiten in Ihrem Alltag beruhen auf dem Ruf, dass sie „immer helfen“, und wie würden Sie prüfen, ob das für Ihr Ziel stimmt?",
+      "source": {
+        "name": "wissenschaft.de",
+        "url": "https://wissenschaft.de/artikel/wann-eisbaeder-nach-dem-sport-helfen-und-wann-nicht"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Stimmt das wirklich?",
+    "title": "„Das hilft immer“: Warum Ratschläge ohne Ziel wenig wert sind",
+    "explanation": "Pauschale Aussagen wie „Kälte nach dem Sport fördert die Regeneration“ klingen plausibel, weil sie im Kern stimmen können. Ob ein Mittel nützt, hängt aber davon ab, was man erreichen will und unter welchen Bedingungen. Dasselbe Verfahren kann ein Ziel fördern und ein anderes behindern. Wer nur auf einen Effekt schaut, etwa weniger Muskelkater, übersieht leicht die Kosten an anderer Stelle. Gute Evidenz benennt deshalb immer, für wen, wofür und wann etwas wirkt.",
+    "example": "Ein Freund schwört auf Kaffee vor dem Schlafengehen, weil er danach „besser lernt“. Dass er abends länger wach bleibt, aber morgens schlechter denkt, fällt ihm nicht auf.",
+    "selfCheck": "Wenn ich einen Rat für gut halte: Habe ich auch nach den Bedingungen und Nachteilen gefragt, unter denen er nicht funktioniert?"
+  },
+  "quiz": [
+    {
+      "question": "Was haben die Romanfiguren Franziska Denk und Otto Mandl in „Schleifen“ gemeinsam?",
+      "options": [
+        "Sie lernen sich 1952 kennen",
+        "Sie sind beide Pharmakologen",
+        "Sie schreiben sich nur E-Mails",
+        "Sie sind Mitglieder der Jury"
+      ],
+      "correctIndex": 0,
+      "explanation": "Die begabte junge Frau Franziska Denk lernt 1952 den Mathematiker Otto Mandl kennen."
+    },
+    {
+      "question": "Warum muss DNA-Reparatur laut Text praktisch so alt sein wie DNA selbst?",
+      "options": [
+        "Weil Viren sie ständig angreifen",
+        "Weil stabile genetische Information ohne Reparatur nicht möglich ist",
+        "Weil Reparatur Mutationen vollständig verhindert",
+        "Weil Zellen nur so Energie sparen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Da DNA ständig beschädigt wird, kann es ohne Reparatur keine stabile Erbinformation geben."
+    },
+    {
+      "question": "Wie verhält sich der Hall-Strom im Modell bei schwachen elektrischen Feldern?",
+      "options": [
+        "Er bleibt konstant",
+        "Er wächst mit dem Quadrat der Feldstärke",
+        "Er sinkt mit steigender Feldstärke",
+        "Er tritt nur in magnetischen Stoffen auf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eine Verdoppelung der Feldstärke vervierfacht bei schwachen Feldern den Hall-Strom."
+    },
+    {
+      "question": "Wann können Eisbäder laut der Auswertung besonders nützlich sein?",
+      "options": [
+        "Nach jedem Krafttraining zum Muskelaufbau",
+        "Direkt vor schnellen Sprüngen",
+        "Wenn die Erholungszeit begrenzt ist, etwa bei Turnieren",
+        "Nur bei Menschen ohne Muskelkater"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kaltwasserbäder scheinen vor allem bei knapper Erholungszeit zu helfen, während sie den Muskelaufbau nach Krafttraining bremsen können."
+    }
+  ]
+}
