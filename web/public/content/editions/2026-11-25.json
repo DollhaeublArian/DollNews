@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-25",
+  "title": "Löhne, Osmose, Waldbahn und Wikinger",
+  "articles": [
+    {
+      "domain": "Politik & Gesellschaft",
+      "lang": "de",
+      "headline": "EU-Löhne im Vergleich: Warum die Lücke kleiner wird, wenn man die Kaufkraft einrechnet",
+      "summary": "Nach Eurostat-Zahlen für 2025 verdient ein Vollzeitbeschäftigter in der EU im Schnitt brutto 41.464 Euro im Jahr. Zwischen den Ländern liegen Welten: In Luxemburg sind es 85.609 Euro, in Bulgarien 16.201 Euro, also mehr als das Fünffache. Rechnet man jedoch mit dem Kaufkraftstandard, einer Einheit, die unterschiedliche Preisniveaus herausrechnet, schrumpft der Abstand zwischen höchstem und niedrigstem Wert auf etwa das Dreifache. Dann steht Österreich auf Rang zwei, Rumänien klettert um fünf Plätze, und Griechenland landet auf dem letzten Platz. Als Hauptgrund für die Unterschiede nennen Experten Produktivität und wirtschaftliche Entwicklung; in reicheren Ländern steigen auch die Preise, etwa für Dienstleistungen, die sich kaum rationalisieren lassen. Die Ranglisten haben Grenzen: Es sind Bruttowerte, Durchschnitte können Ausreißer verbergen, und Vollzeitlöhne sagen wenig über Menschen, die in Teilzeit arbeiten. Kleine Abstände im kaufkraftbereinigten Vergleich sollte man laut einem Experten nicht als exakte Rangfolge lesen.",
+      "whyItMatters": "Wer Gehälter vergleicht, ohne Preise zu beachten, zieht schnell falsche Schlüsse über Wohlstand und über die Attraktivität von Arbeitsorten.",
+      "thinkQuestion": "Welche anderen Zahlenvergleiche zwischen Ländern oder Städten wirken eindeutig, würden aber anders aussehen, wenn man sie an die Lebenshaltungskosten anpasst?",
+      "source": {
+        "name": "euronews",
+        "url": "https://de.euronews.com/2026/11/25/eurostat-vergleich-der-eu-lohne-luxemburg-zahlt-am-meisten-bulgarien-am-wenigsten"
+      }
+    },
+    {
+      "domain": "Geografie",
+      "lang": "de",
+      "headline": "Osmosekraftwerke: Warum die Wasserkanäle um die Membran die Leistung drastisch bremsen",
+      "summary": "Wo Flusswasser auf Meerwasser trifft, gleichen sich die Salzkonzentrationen aus, und dabei wird Energie frei. Osmosekraftwerke wollen sie als Strom nutzen, etwa mit der umgekehrten Elektrodialyse: Geladene Membranen trennen Süß- und Salzwasser, ihre winzigen Poren lassen bevorzugt Ionen einer Ladung hindurch, und so entsteht eine elektrische Spannung. Viele einfache Modelle sagen dafür zu hohe Leistungen voraus. Forschende der Ben-Gurion-Universität zeigen nun in Rechnungen, die sie mit Simulationen abglichen: Auch die größeren Wasserkanäle an den Enden der Membran haben einen elektrischen Widerstand. Je nach Geometrie sinkt die berechnete Leistung dadurch um mehrere Größenordnungen, die Überschätzung kann über das Hundertfache liegen. Das Modell legt nahe, Elektroden möglichst nah an die Membranen zu setzen. Ob das in echten Anlagen die erhoffte Wirkung bringt, muss noch experimentell geprüft werden. Zudem gehen die Rechnungen von einer vereinfachten Salzlösung aus.",
+      "whyItMatters": "Das Beispiel zeigt, wie ein zu simples Modell Erwartungen an eine Energietechnik verzerren kann, und warum realistische Rechnungen vor teuren Investitionen stehen sollten.",
+      "thinkQuestion": "Woran könnte man bei einer neuen Technologie erkennen, dass ihre versprochene Leistung auf einem zu stark vereinfachten Modell beruht?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/energie/warum-liefern-osmosekraftwerke-weniger-strom-als-erwartet/"
+      }
+    },
+    {
+      "domain": "Länder & Kulturen",
+      "lang": "de",
+      "headline": "Die Wieslauftalbahn: Wie eine Nebenbahn im Schwäbischen Wald fast verschwand und doch weiterfährt",
+      "summary": "Die Wieslauftalbahn zweigt in Schorndorf von der Remsbahn ab und führt durch das Tal der Wieslauf bis Welzheim. Die Planung ging auf Bestrebungen ab 1890 zurück, die abgelegene Region zu erschließen, denn Welzheim war die letzte württembergische Oberamtsstadt ohne Bahnanschluss. Gebaut wurde sie schließlich in Normalspur und ohne Zahnrad, was die Strecke verlängerte; 1908 eröffnete der Abschnitt bis Rudersberg, 1911 der Rest. Der erhoffte wirtschaftliche Aufschwung blieb aus. Später dünnte die Bundesbahn den Fahrplan aus und ersetzte Züge durch Busse; 1980 endete der Personenverkehr nach Welzheim, 1988 nach einem Erdrutsch der gesamte Betrieb auf der Bergstrecke. Dass die Strecke nie formal stillgelegt wurde, ermöglichte ihre Rettung: 1992 gründete sich ein Zweckverband, ab 1995 fuhren wieder Regionalzüge bis Rudersberg, und seit 2010 betreibt eine Museumsbahn, teils mit Dampf, den oberen Abschnitt.",
+      "whyItMatters": "Die Geschichte zeigt, wie Verkehrsinfrastruktur durch politische Entscheidungen und lokales Engagement verschwinden oder überleben kann.",
+      "thinkQuestion": "Nach welchen Kriterien sollte man entscheiden, ob eine wenig genutzte Bahnstrecke stillgelegt oder erhalten wird, und wer sollte das bezahlen?",
+      "source": {
+        "name": "Wikipedia",
+        "url": "https://de.wikipedia.org/wiki/Wieslauftalbahn"
+      }
+    },
+    {
+      "domain": "Geschichte",
+      "lang": "en",
+      "headline": "Wikinger-Kreuzzüge: Als Skandinaviens Könige das Kreuz mit Raubzügen verbanden",
+      "summary": "Im Jahr 1107 zog Norwegens König Sigurd mit 60 Schiffen und rund 5.000 Mann ins Heilige Land. Auf dem Weg plünderte er die Festung Compostela, plünderte Lissabon, stürmte Ibiza und Menorca und half dem König von Jerusalem, die Hafenstadt Sidon zu nehmen. Sein Zug, manchmal Norwegischer Kreuzzug genannt, ähnelte laut dem Historiker Thomas Williams einem alten Wikingerraubzug. Williams beschreibt in seinem Buch, wie heidnische Kriegertraditionen ins christliche Zeitalter wanderten, nachdem Skandinavien über drei Jahrhunderte langsam und blutig christianisiert worden war. Ein Wendepunkt kam 1147, als Papst Eugen III. die nun christlichen Könige des Nordens ermächtigte, vor der eigenen Haustür Kreuzzüge zu führen, mit denselben geistlichen Belohnungen wie im Heiligen Land. Als die Dänen um 1168 die slawische Festung Arkona belagerten, verlangten sie Übertritt zum Glauben, Land für die Kirche und Truppen; das Götzenbild wurde zerhackt und verbrannt. Williams wertet das als politischen und kulturellen Akt ebenso wie als religiösen.",
+      "whyItMatters": "Religiöse Bekehrung und Machtpolitik waren im Mittelalter eng verflochten; das hilft, Begriffe wie Kreuzzug und Christianisierung differenzierter zu sehen.",
+      "thinkQuestion": "Wie lässt sich bei historischen Kriegen unterscheiden, ob Religion der Antrieb war oder nur eine Rechtfertigung für Machtinteressen?",
+      "source": {
+        "name": "Smithsonian History",
+        "url": "https://www.smithsonianmag.com/history/scandinavian-countries-slowly-converted-christianity-crusades-took-form-viking-raids-180989836/"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Der Sunk-Cost-Fehlschluss: Weitermachen, weil schon so viel investiert wurde",
+    "explanation": "Beim Sunk-Cost-Fehlschluss halten Menschen an einem Vorhaben fest, weil sie bereits Zeit, Geld oder Mühe hineingesteckt haben, obwohl die Aussichten schlecht sind. Dabei sind diese Kosten unwiederbringlich verloren und sollten die Entscheidung nicht bestimmen. Rational zählt nur, was ab jetzt zu erwarten ist: Nutzen und Kosten der Zukunft. Der Fehler wirkt, weil Aufgeben sich wie ein Eingeständnis anfühlt, früher Geld verschwendet zu haben.",
+    "example": "Du hast für ein Konzert im Regen ein teures Ticket gekauft, fühlst dich aber krank. Du gehst trotzdem hin, weil das Ticket sonst verfallen wäre, obwohl das Geld ohnehin weg ist und du zu Hause besser aufgehoben wärst.",
+    "selfCheck": "Würde ich mich heute genauso entscheiden, wenn ich bei null anfinge und nichts bisher Investiertes zählte?"
+  },
+  "quiz": [
+    {
+      "question": "Was passiert mit dem Abstand zwischen höchstem und niedrigstem EU-Durchschnittslohn, wenn man den Kaufkraftstandard verwendet?",
+      "options": [
+        "Er wächst auf das Zehnfache",
+        "Er schrumpft auf etwa das Dreifache",
+        "Er bleibt gleich",
+        "Er verschwindet vollständig"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Kaufkraftstandard rechnet Preisunterschiede heraus, sodass der Höchstwert nur noch etwa dreimal so hoch ist wie der niedrigste."
+    },
+    {
+      "question": "Warum überschätzen einfache Modelle von Osmosekraftwerken oft die Leistung?",
+      "options": [
+        "Sie vernachlässigen die Temperatur des Meerwassers",
+        "Sie ignorieren, dass Salz sich nicht löst",
+        "Sie berücksichtigen den Widerstand der Wasserkanäle an der Membran nicht",
+        "Sie rechnen mit zu wenigen Membranen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Auch die größeren Wasserkanäle tragen zum elektrischen Widerstand bei und senken die erzielbare Leistung stark."
+    },
+    {
+      "question": "Was ermöglichte die spätere Rettung der Wieslauftalbahn bis Welzheim?",
+      "options": [
+        "Die Strecke wurde nie formal stillgelegt",
+        "Sie wurde auf Zahnradbetrieb umgebaut",
+        "Sie wurde in Schmalspur neu gebaut",
+        "Sie wurde elektrifiziert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eine formale Stilllegung konnte über Jahrzehnte verhindert werden, wodurch Zweckverband und Museumsbahn die Strecke weiternutzen konnten."
+    },
+    {
+      "question": "Was änderte sich 1147 laut dem Bericht über die Wikinger-Kreuzzüge?",
+      "options": [
+        "Die Dänen eroberten Jerusalem",
+        "Sigurd kehrte nach Norwegen zurück",
+        "Die Templer wurden gegründet",
+        "Der Papst erlaubte Skandinaviens Königen Kreuzzüge im eigenen Umfeld"
+      ],
+      "correctIndex": 3,
+      "explanation": "Papst Eugen III. ermächtigte die nordischen Könige, vor ihrer Haustür Kreuzzüge mit denselben geistlichen Belohnungen zu führen."
+    }
+  ]
+}

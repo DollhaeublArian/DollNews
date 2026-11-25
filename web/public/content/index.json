@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-11-25",
+    "title": "Löhne, Osmose, Waldbahn und Wikinger",
+    "domains": [
+      "Politik & Gesellschaft",
+      "Geografie",
+      "Länder & Kulturen",
+      "Geschichte"
+    ],
+    "headlines": [
+      "EU-Löhne im Vergleich: Warum die Lücke kleiner wird, wenn man die Kaufkraft einrechnet",
+      "Osmosekraftwerke: Warum die Wasserkanäle um die Membran die Leistung drastisch bremsen",
+      "Die Wieslauftalbahn: Wie eine Nebenbahn im Schwäbischen Wald fast verschwand und doch weiterfährt",
+      "Wikinger-Kreuzzüge: Als Skandinaviens Könige das Kreuz mit Raubzügen verbanden"
+    ],
+    "thinking": "Der Sunk-Cost-Fehlschluss: Weitermachen, weil schon so viel investiert wurde",
+    "urls": [
+      "https://de.euronews.com/2026/11/25/eurostat-vergleich-der-eu-lohne-luxemburg-zahlt-am-meisten-bulgarien-am-wenigsten",
+      "https://www.scinexx.de/news/energie/warum-liefern-osmosekraftwerke-weniger-strom-als-erwartet/",
+      "https://de.wikipedia.org/wiki/Wieslauftalbahn",
+      "https://www.smithsonianmag.com/history/scandinavian-countries-slowly-converted-christianity-crusades-took-form-viking-raids-180989836/"
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "title": "Löhne, Osmose, Waldbahn und Wikinger",
+    "domains": [
+      "Politik & Gesellschaft",
+      "Geografie",
+      "Länder & Kulturen",
+      "Geschichte"
+    ],
+    "headlines": [
+      "EU-Löhne im Vergleich: Warum die Lücke kleiner wird, wenn man die Kaufkraft einrechnet",
+      "Osmosekraftwerke: Warum die Wasserkanäle um die Membran die Leistung drastisch bremsen",
+      "Die Wieslauftalbahn: Wie eine Nebenbahn im Schwäbischen Wald fast verschwand und doch weiterfährt",
+      "Wikinger-Kreuzzüge: Als Skandinaviens Könige das Kreuz mit Raubzügen verbanden"
+    ],
+    "thinking": "Der Sunk-Cost-Fehlschluss: Weitermachen, weil schon so viel investiert wurde",
+    "urls": [
+      "https://de.euronews.com/2026/11/25/eurostat-vergleich-der-eu-lohne-luxemburg-zahlt-am-meisten-bulgarien-am-wenigsten",
+      "https://www.scinexx.de/news/energie/warum-liefern-osmosekraftwerke-weniger-strom-als-erwartet/",
+      "https://de.wikipedia.org/wiki/Wieslauftalbahn",
+      "https://www.smithsonianmag.com/history/scandinavian-countries-slowly-converted-christianity-crusades-took-form-viking-raids-180989836/"
+    ]
+  },
+  {
     "date": "2026-11-24",
     "title": "Literaturpreis, DNA-Reparatur und Eisbäder",
     "domains": [
