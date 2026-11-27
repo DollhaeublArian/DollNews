@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-27",
+    "title": "Rechnen mit Licht und ein falsches Reptil",
+    "domains": [
+      "Technik",
+      "Biologie",
+      "Physik & Chemie",
+      "Medizin"
+    ],
+    "headlines": [
+      "Optischer Prozessor nähert 100 nichtlineare Funktionen in einem Durchlauf an",
+      "Westlothiana was no early reptile: X-rays reveal a gilled, fish-mouthed animal",
+      "Wie lange braucht ein Quantenteilchen? Ein Experiment mit Helium soll Theorien trennen",
+      "BrainBots: Nanoroboter mit Mini-Antrieb sollen Medikamente durch die Blut-Hirn-Schranke bringen"
+    ],
+    "thinking": "Die Repräsentativitätsheuristik: vom Aussehen auf die Zugehörigkeit schließen",
+    "urls": [
+      "https://www.scinexx.de/news/technik/lichtprozessor-berechnet-100-nichtlineare-funktionen-parallel/",
+      "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+      "https://www.scinexx.de/news/physik/ultrakalte-atome-koennten-ein-zeitraetsel-der-quantenphysik-loesen/",
+      "https://wissenschaft.de/artikel/brainbots-transportieren-wirkstoffe-ins-gehirn"
+    ]
+  },
+  {
     "date": "2026-11-26",
     "title": "Schiefe Planetenbahnen und Hamsterkäufe",
     "domains": [

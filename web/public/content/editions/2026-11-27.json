@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-27",
+  "title": "Rechnen mit Licht und ein falsches Reptil",
+  "articles": [
+    {
+      "domain": "Technik",
+      "lang": "de",
+      "headline": "Optischer Prozessor nähert 100 nichtlineare Funktionen in einem Durchlauf an",
+      "summary": "Licht kann viele Signale gleichzeitig verarbeiten, doch nichtlineare Rechenoperationen sind für optische Rechner schwierig. Nichtlinear heißt: Verdoppelt man die Eingabe, verdoppelt sich das Ergebnis nicht unbedingt. Gerade solche Operationen braucht die künstliche Intelligenz. Üblich sind Materialien mit intensitätsabhängigen, oft schwachen Effekten oder mehrere exakt ausgerichtete lichtbeugende Schichten. Ein Team der University of California, Los Angeles kommt mit einer einzigen Ebene und linearen Materialien aus. Darin sitzen ein dynamischer Kodierer, der Eingabewerte in Phasenmuster des Lichts übersetzt, und ein nach dem Training fester Dekodierer. Ihre Lichtwellen überlagern sich auf dem Weg zum Detektor. Weil dessen Messwert vom Quadrat der Feldstärke abhängt, entsteht ein nichtlineares Signal. Im Labortest mit einem zehn mal zehn großen Raster und rotem Laserlicht wurden 100 Funktionen gleichzeitig angenähert, der mittlere Fehler lag bei 0,0028. Wie schnell und sparsam ein vollständiger Rechner so arbeiten könnte, ist offen, da im Labor Kamera und Lichtmodulator das Tempo begrenzten.",
+      "whyItMatters": "Optische Rechner gelten als Weg zu schneller KI-Hardware; dieser Ansatz zeigt, dass sich ein Kernproblem mit weniger Bauteilen lösen lassen könnte.",
+      "thinkQuestion": "Welche Messgrößen würden Sie verlangen, bevor Sie glauben, dass ein optischer Rechner einem elektronischen wirklich überlegen ist?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/technik/lichtprozessor-berechnet-100-nichtlineare-funktionen-parallel/"
+      }
+    },
+    {
+      "domain": "Biologie",
+      "lang": "en",
+      "headline": "Westlothiana was no early reptile: X-rays reveal a gilled, fish-mouthed animal",
+      "summary": "For nearly three decades, a small fossil from Scotland, nicknamed Lizzie, was regarded as one of the earliest known reptiles. Found in 1984, Westlothiana lizziae is about 345 million years old and survives as a nearly complete skeleton in two crushed slabs of rock. Its four limbs with fingers and apparently clawed toes seemed to mark it as an early land-living amniote, the group that includes reptiles, birds and mammals. Because the crushing hid much of its anatomy, researchers now used powerful X-ray imaging at a synchrotron in Grenoble, France, to look inside the rock. They found a primitive skull, internal gills containing bone and a fish-like mouth with thousands of tiny teeth. That rules out a place on the reptile line; the animal was probably aquatic or amphibious. The finding suggests that claws and five digits arose earlier, in water-associated relatives of tetrapods. It also means some fossil trackways, previously attributed to early amniotes, may have been left by such amphibious animals instead.",
+      "whyItMatters": "It shows how a long-trusted textbook example can be overturned by new imaging, and that land-adapted traits evolved gradually in animals still living in and out of water.",
+      "thinkQuestion": "If a fossil's looks misled scientists for decades, which other conclusions drawn from surface features alone deserve a second look, and how would you test them?",
+      "source": {
+        "name": "ScienceDaily",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
+      }
+    },
+    {
+      "domain": "Physik & Chemie",
+      "lang": "de",
+      "headline": "Wie lange braucht ein Quantenteilchen? Ein Experiment mit Helium soll Theorien trennen",
+      "summary": "Die Quantenmechanik sagt zuverlässig voraus, wo sich ein Teilchen mit welcher Wahrscheinlichkeit aufhält. Wie sich dagegen die Zeit berechnen lässt, die es bis zu einem Detektor braucht, ist seit Jahrzehnten umstritten. Eine einzelne Ankunftszeit gibt es nicht, nur eine statistische Verteilung über viele Messungen. Bisherige Versuche fanden unter Bedingungen statt, bei denen die konkurrierenden Ansätze fast gleiche Ergebnisse lieferten. Ein Team des Instituts RIKEN schlägt nun ein Experiment vor, das mit vorhandener Technik machbar sein soll. Eine Wolke aus 10.000 angeregten Helium-4-Atomen, ein Bose-Einstein-Kondensat, fällt 45 Zentimeter tief. Ein senkrechter Detektor zählt die Atome an verschiedenen seitlichen Positionen. Verglichen werden vier Ansätze, darunter die Pilotwellentheorie, ein Uhrenmodell und die Kijowski-Verteilung. Modellrechnungen zeigen für mindestens drei Gruppen charakteristische Messkurven, zwei Bahn-Ansätze lassen sich womöglich nicht trennen. Das Experiment selbst steht noch aus; es soll zeigen, welche Berechnungen zutreffen.",
+      "whyItMatters": "Das Beispiel zeigt, dass selbst in einer extrem gut getesteten Theorie grundlegende Fragen offen sind und sich durch geschickte Versuchsplanung prüfen lassen.",
+      "thinkQuestion": "Warum ist es für die Wissenschaft wertvoll, Bedingungen zu finden, unter denen sich konkurrierende Theorien unterscheiden, statt nur deren Übereinstimmung zu bestätigen?",
+      "source": {
+        "name": "scinexx",
+        "url": "https://www.scinexx.de/news/physik/ultrakalte-atome-koennten-ein-zeitraetsel-der-quantenphysik-loesen/"
+      }
+    },
+    {
+      "domain": "Medizin",
+      "lang": "de",
+      "headline": "BrainBots: Nanoroboter mit Mini-Antrieb sollen Medikamente durch die Blut-Hirn-Schranke bringen",
+      "summary": "Die Blut-Hirn-Schranke schützt das Gehirn vor Giftstoffen und Krankheitserregern, erschwert aber auch Behandlungen: Von gespritzten Wirkstoffen kommt nur wenig im Gehirn an, und vieles wird schnell wieder hinausbefördert. Die Schranke kurzzeitig zu schwächen ist riskant, weil dann auch Schadstoffe eindringen könnten. Ein Team am California Institute of Technology hat deshalb Nanoroboter entwickelt, die BrainBots. Sie sind etwa 250 Nanometer große, asymmetrische Ballons. Im Inneren steckt Ammoniumbicarbonat, das auch als Backtriebmittel dient, hinter einem temperaturempfindlichen Ventil, dazu das Medikament. Außen tragen sie DNA-Moleküle, sogenannte Aptamere, mit denen sie an Zellen der Schranke andocken. Bestrahlt man den Kopf mit Infrarotlicht, schmilzt das Ventil, das Treibmittel setzt Gas frei und schiebt die Roboter durch die Barriere. Im Test kam fünfmal mehr Wirkstoff im Gehirn an als bei Nanoträgern ohne Antrieb, die Schranke blieb intakt. Bei Mäusen mit Hirntumoren wirkte die Chemotherapie besser. Für Studien am Menschen sind noch weitere Untersuchungen nötig.",
+      "whyItMatters": "Viele Hirnerkrankungen sind schwer behandelbar, weil Medikamente die Schranke kaum passieren; der Ansatz zeigt einen Weg, sie zu umgehen, ohne sie zu öffnen.",
+      "thinkQuestion": "Ein Erfolg bei Mäusen ist noch keine Therapie für Menschen: Welche Fragen würden Sie vor einer ersten Studie am Menschen beantwortet sehen wollen?",
+      "source": {
+        "name": "wissenschaft.de",
+        "url": "https://wissenschaft.de/artikel/brainbots-transportieren-wirkstoffe-ins-gehirn"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Die Repräsentativitätsheuristik: vom Aussehen auf die Zugehörigkeit schließen",
+    "explanation": "Wir schätzen oft, wozu etwas gehört, danach, wie sehr es dem typischen Vertreter einer Kategorie ähnelt. Das ist schnell, aber unzuverlässig: Ähnlichkeit an der Oberfläche sagt wenig über die tatsächliche Herkunft oder Natur. Dabei vernachlässigen wir, wie häufig eine Kategorie überhaupt vorkommt. Auch Fachleute sind nicht gefeit, wie das Fossil Westlothiana zeigt, das wegen seiner Gliedmaßen jahrzehntelang als Reptil galt. Erst der Blick ins Innere zeigte ein anderes Bild.",
+    "example": "Eine Person im Anzug mit Aktentasche halten wir eher für einen Anwalt als für einen Lehrer, obwohl es viel mehr Lehrer gibt, die ebenfalls Anzüge tragen.",
+    "selfCheck": "Habe ich etwas gerade eingeordnet, weil es typisch aussieht, und habe ich geprüft, wie häufig die Kategorien tatsächlich sind?"
+  },
+  "quiz": [
+    {
+      "question": "Wie entsteht im vorgestellten optischen Prozessor das nichtlineare Ausgangssignal?",
+      "options": [
+        "Durch ein Material, das stark von der Lichtintensität abhängt",
+        "Weil sich Lichtwellen überlagern und der Detektor die Intensität misst, die vom Quadrat der Feldstärke abhängt",
+        "Durch viele hintereinander geschaltete lichtbeugende Schichten",
+        "Durch elektronische Nachbearbeitung jeder einzelnen Funktion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die Intensität hängt vom Quadrat der Feldstärke ab, daher liefern die überlagerten Wellen ein nichtlineares Signal."
+    },
+    {
+      "question": "Was haben die Röntgenaufnahmen am Fossil Westlothiana gezeigt?",
+      "options": [
+        "Ein Reptilienskelett mit besonders starken Krallen",
+        "Ein Säugetier-ähnliches Gebiss",
+        "Einen primitiven Schädel, knöcherne innere Kiemen und ein fischartiges Maul mit vielen Zähnen",
+        "Eine Haut mit Schuppen wie bei Echsen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diese Merkmale schließen die Einordnung als früher Reptilienvorfahr aus und deuten auf ein wasserlebendes oder amphibisches Tier."
+    },
+    {
+      "question": "Warum ist der geplante Heliumversuch zur Ankunftszeit neuartig?",
+      "options": [
+        "Er misst erstmals Bedingungen, unter denen sich die konkurrierenden Ansätze deutlich unterscheiden",
+        "Er hat die Frage bereits endgültig geklärt",
+        "Er nutzt ein Teilchen, das schneller als Licht fliegt",
+        "Er benötigt Technik, die es noch nicht gibt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frühere Experimente fanden dort statt, wo die Ansätze fast gleiche Vorhersagen liefern; der neue Aufbau soll sie trennen."
+    },
+    {
+      "question": "Wie bringen die BrainBots ihre Fracht durch die Blut-Hirn-Schranke?",
+      "options": [
+        "Sie öffnen die Schranke vorübergehend für alle Stoffe",
+        "Sie werden operativ direkt ins Gehirn eingesetzt",
+        "Ein durch Infrarotlicht freigesetztes Treibgas schiebt sie hindurch, während Aptamere sie an der Schranke andocken lassen",
+        "Sie lösen sich im Blut auf und diffundieren von selbst ins Gehirn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aptamere lassen sie andocken, Infrarotlicht schmilzt das Ventil, und das freigesetzte Gas dient als Antrieb, ohne die Schranke generell zu schwächen."
+    }
+  ]
+}
