@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-28",
+  "title": "Alexandrias Königsgrab und Italiens Abendstrom",
+  "articles": [
+    {
+      "domain": "Kunst, Musik & Literatur",
+      "lang": "de",
+      "headline": "Venedig-Biennale 2028: Hoor Al Qasimi leitet als erste Arabische die älteste Kunstschau der Welt",
+      "summary": "Kaum ist die jüngste Kunstbiennale in Venedig zu Ende gegangen, steht die Leitung der übernächsten Ausgabe fest: 2028 übernimmt Hoor Al Qasimi die künstlerische Leitung. Die Biennale gilt als älteste Kunstschau der Welt, und ihre Kuratorin oder ihr Kurator gibt der Ausstellung jeweils ein eigenes Gesicht. Vor Al Qasimi leiteten die Italienerin Cecilia Alemani, der Brasilianer Adriano Pedrosa und die kamerunisch-schweizerische Koyo Kouoh die Schau. Neu ist, dass erstmals eine Person aus dem arabischen Raum gewählt wurde. Zum siebten Mal in der Geschichte der Biennale ist es eine Frau. Al Qasimi gilt laut Quelle als eine der einflussreichsten Persönlichkeiten der Kunstwelt, ist 46 Jahre alt und übt neben der neuen Aufgabe zahlreiche weitere Funktionen aus. Die Entscheidung zeigt, wie sich der Blick der internationalen Kunstwelt weitet: Die Auswahl der Leitung bestimmt mit, welche Künstlerinnen und Künstler, welche Regionen und welche Themen auf einer der sichtbarsten Bühnen der Gegenwartskunst Platz bekommen.",
+      "whyItMatters": "Wer eine große Ausstellung kuratiert, entscheidet mit, was als relevante Kunst gilt. Die Wahl der Leitung ist daher auch ein Hinweis darauf, wessen Perspektiven im Kunstbetrieb Gewicht bekommen.",
+      "thinkQuestion": "Wie sehr prägt die Herkunft einer Kuratorin oder eines Kurators die Auswahl der Kunst, und wäre eine vollkommen herkunftsneutrale Auswahl überhaupt denkbar oder wünschenswert?",
+      "source": {
+        "name": "Der Standard Kultur",
+        "url": "https://www.derstandard.at/story/3000000351400/hoor-al-qasimi-scheichtochter-als-kuratorin-der-venedig-biennale?ref=rss"
+      }
+    },
+    {
+      "domain": "Geografie",
+      "lang": "en",
+      "headline": "US-Einwanderung im Langzeitvergleich: Rekord bei der Zahl, aber ähnlicher Anteil wie 1890",
+      "summary": "Wie hoch ist die Einwanderung in die USA im Vergleich zur Geschichte? Die Antwort hängt davon ab, was man misst. Das US-Zensusbüro zählt die im Ausland geborene Bevölkerung, also Menschen, die nicht als US-Bürger zur Welt kamen. Eingebürgerte sind darin enthalten, ebenso Menschen ohne legalen Status, ohne dass die Statistik beides trennt. 2024 lebten 50 Millionen Menschen mit Geburtsort im Ausland in den USA, so viele wie nie in der Reihe seit 1850. Damals waren es rund 2 Millionen, 1900 etwa 10 Millionen. Danach sank die Zahl zwischen 1930 und 1970 und stieg anschließend stark an. Setzt man sie aber ins Verhältnis zur Gesamtbevölkerung, ergibt sich ein anderes Bild: Der Anteil lag im späten 19. Jahrhundert bei etwa 13 bis 15 Prozent, fiel 1970 auf knapp unter 5 Prozent und erreichte 2024 wieder rund 15 Prozent. Auch die Herkunft hat sich gewandelt: Früher kamen die meisten aus Europa, vor allem aus Deutschland und Irland, heute überwiegend aus Lateinamerika und Asien, an der Spitze Mexiko, Indien und China.",
+      "whyItMatters": "Der Fall zeigt, wie stark das Urteil „beispiellos“ davon abhängt, ob man absolute Zahlen oder Anteile betrachtet und wie weit man zurückschaut.",
+      "thinkQuestion": "Welche Vergleichsgröße und welcher Zeitraum würden Sie wählen, um zu beurteilen, ob die heutige Einwanderung „hoch“ ist, und warum wäre diese Wahl nicht neutral?",
+      "source": {
+        "name": "Our World in Data",
+        "url": "https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective"
+      }
+    },
+    {
+      "domain": "Länder & Kulturen",
+      "lang": "de",
+      "headline": "Italien: Warum der Abend trotz Solarstrom teuer bleibt und Batterien den Gaspreis bremsen könnten",
+      "summary": "Italien bezog im vergangenen Jahr 49 Prozent seines Stroms aus erneuerbaren Quellen und ist trotzdem zu Zeiten höchster Nachfrage auf Gas angewiesen, die teuerste Erzeugungsart. Die Spitze liegt meist gegen 20 Uhr, wenn viele nach Hause kommen und die Solarproduktion mangels Sonnenlicht einbricht. Dass dann der Gaspreis den Strompreis bestimmt, liegt am Merit-Order-Prinzip: Der Preis richtet sich nach dem teuersten Kraftwerk, das zur Deckung der Nachfrage noch laufen muss. Eine Analyse des Thinktanks Ember mit Partnern kommt zu dem Schluss, dass tagsüber erzeugter und in Batterien gespeicherter Ökostrom selbst bei vorsichtigen Annahmen 106 Euro je Megawattstunde kosten könnte, Gasstrom lag nach den Preisen vom Oktober 2026 bei 210 Euro. Das ergäbe bis zu 49 Prozent niedrigere Kosten. Batterien deckten im ersten Halbjahr 2026 im Schnitt 2,8 Prozent der Spitzenlast, mehr als doppelt so viel wie ein Jahr zuvor. Bulgarien baut Speicher noch schneller aus. Entscheidend sei laut Quelle, dass Speicher, Netze und neue Erzeugung gemeinsam wachsen.",
+      "whyItMatters": "Das Merit-Order-Prinzip erklärt, warum ein einziger teurer Kraftwerkstyp den Preis für alle bestimmen kann und warum Speicher so wirksam sein können.",
+      "thinkQuestion": "Die Zahlen stammen aus einer Analyse eines Thinktanks, der den Ausbau erneuerbarer Energien befürwortet: Welche Annahmen würden Sie prüfen, bevor Sie dem Ergebnis von 49 Prozent Ersparnis trauen?",
+      "source": {
+        "name": "euronews",
+        "url": "https://de.euronews.com/2026/11/28/italien-setzt-auf-solarstrom-batterien-sollen-abends-gaskraftwerke-und-strompreise-bremsen"
+      }
+    },
+    {
+      "domain": "Geschichte",
+      "lang": "de",
+      "headline": "Alexandria: Fundament könnte vom Ptolemäer-Mausoleum stammen, wo Alexander der Große lag",
+      "summary": "Alexander der Große starb 323 vor Christus mit 32 Jahren. Überlieferungen zufolge brachte man seinen Leichnam von Babylon nach Ägypten und bestattete ihn zunächst in Memphis. Rund 100 Jahre später ließ Ptolemäus IV. in Alexandria ein neues Mausoleum bauen, in das er auch die Gebeine seiner Vorgänger überführt haben soll. Der Geograf Strabo erwähnt dieses „Soma“, und Kaiser Augustus soll das Grab im Jahr 30 vor Christus besucht haben. Gefunden wurde es nie, auch weil unterhalb von siebeneinhalb Metern alles im Grundwasser steht. Erst seit 2016 gelang es einem griechisch-ägyptischen Team, ein Areal im Shallalat-Park per Pumpen halbwegs trockenzulegen. In rund zehn Metern Tiefe legte es Fundamente großer Gebäude und einen Tunnel frei. Eine Expertenkommission sieht nun in Kalksteinfundamenten mit quadratischem Grundriss möglicherweise eine Grabanlage, deren Lage zu den Beschreibungen passt. Die Behörde betont aber, es sei nur eine Arbeitshypothese, die Grabungen dauerten an. Wozu der Tunnel diente, ist unklar.",
+      "whyItMatters": "Die Suche zeigt, wie antike Textquellen und Archäologie zusammenspielen und wie schwer es ist, ein legendäres Grab unter einer modernen Großstadt zu finden.",
+      "thinkQuestion": "Welche Funde müssten die Archäologen vorlegen, damit aus der Arbeitshypothese eine gesicherte Aussage würde, und woran würden Sie erkennen, dass man sich nur das Passende herausgesucht hat?",
+      "source": {
+        "name": "wissenschaft.de",
+        "url": "https://wissenschaft.de/artikel/alexandria-mausoleum-der-ptolemaeer-koenige-gefunden"
+      }
+    }
+  ],
+  "criticalThinking": {
+    "type": "Denkfehler",
+    "title": "Gegenwartsverzerrung: Das Aktuelle für beispiellos halten",
+    "explanation": "Wir neigen dazu, das, was wir gerade erleben, für außergewöhnlicher zu halten als Vergleichbares aus der Vergangenheit. Der Grund: Die Gegenwart ist lebhaft und medial präsent, frühere Phasen sind verblasst oder uns nie begegnet. Wer nur die letzten Jahrzehnte betrachtet, hält deshalb schnell einen Höchststand für einmalig. Ein längerer Zeitraum oder ein anderes Maß, etwa Anteile statt absoluter Zahlen, kann das Bild verändern. Das heißt nicht, dass nichts neu ist, aber man sollte prüfen, womit man eigentlich vergleicht.",
+    "example": "Nach einem sehr heißen Sommer heißt es: „So etwas hat es noch nie gegeben.“ Dabei sind die Erinnerungen an frühere Hitzewellen schlicht verblasst, und ein Blick in lange Messreihen zeigt, ob der Satz stimmt.",
+    "selfCheck": "Wann habe ich zuletzt etwas „noch nie Dagewesenes“ behauptet, ohne nachzusehen, wie weit meine Vergleichsdaten überhaupt zurückreichen?"
+  },
+  "quiz": [
+    {
+      "question": "Was ist an der Wahl von Hoor Al Qasimi zur Leiterin der Venedig-Biennale 2028 neu?",
+      "options": [
+        "Sie ist die erste Frau auf dem Posten",
+        "Sie ist die jüngste Leiterin aller Zeiten",
+        "Sie ist die erste Person aus dem arabischen Raum auf dem Posten",
+        "Sie leitet die Biennale zum zweiten Mal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laut Text wurde zum ersten Mal eine Person aus dem arabischen Raum gewählt; eine Frau war es schon zum siebten Mal."
+    },
+    {
+      "question": "Warum wirkt die Einwanderung in die USA je nach Maß unterschiedlich hoch?",
+      "options": [
+        "Die absolute Zahl erreichte 2024 einen Höchststand, der Anteil an der Bevölkerung entspricht aber etwa dem von 1890",
+        "Das Zensusbüro zählt nur legale Einwanderer, was die Zahlen verfälscht",
+        "Seit 1970 ist der Anteil der Einwanderer kaum gestiegen",
+        "Früher kamen mehr Menschen aus Lateinamerika als heute"
+      ],
+      "correctIndex": 0,
+      "explanation": "50 Millionen Menschen sind ein Rekord, doch mit etwa 15 Prozent liegt der Anteil auf dem Niveau des späten 19. Jahrhunderts."
+    },
+    {
+      "question": "Warum bestimmt in Italien abends oft Gas den Strompreis?",
+      "options": [
+        "Weil Italien keinen Strom aus erneuerbaren Quellen erzeugt",
+        "Weil Batterien Gas verbieten",
+        "Weil Gaskraftwerke immer die billigste Erzeugung sind",
+        "Weil nach dem Merit-Order-Prinzip das teuerste noch benötigte Kraftwerk den Preis setzt, und abends sinkt die Solarproduktion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gegen 20 Uhr ist die Nachfrage hoch und Solarstrom fehlt, sodass das teure Gas den Preis für alle festlegt."
+    },
+    {
+      "question": "Wie bewerten die Behörden den Fund in Alexandria?",
+      "options": [
+        "Als gesichert das Grab Alexanders des Großen",
+        "Als Arbeitshypothese, dass es sich um das Ptolemäer-Mausoleum handeln könnte",
+        "Als Überrest eines römischen Tempels aus der Zeit des Augustus",
+        "Als Beweis, dass Alexander in Memphis blieb"
+      ],
+      "correctIndex": 1,
+      "explanation": "Die Behörde betont, es handle sich um eine Arbeitshypothese auf Basis vorläufiger Analysen; die Grabungen laufen weiter."
+    }
+  ]
+}

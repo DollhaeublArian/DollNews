@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-11-28",
+    "title": "Alexandrias Königsgrab und Italiens Abendstrom",
+    "domains": [
+      "Kunst, Musik & Literatur",
+      "Geografie",
+      "Länder & Kulturen",
+      "Geschichte"
+    ],
+    "headlines": [
+      "Venedig-Biennale 2028: Hoor Al Qasimi leitet als erste Arabische die älteste Kunstschau der Welt",
+      "US-Einwanderung im Langzeitvergleich: Rekord bei der Zahl, aber ähnlicher Anteil wie 1890",
+      "Italien: Warum der Abend trotz Solarstrom teuer bleibt und Batterien den Gaspreis bremsen könnten",
+      "Alexandria: Fundament könnte vom Ptolemäer-Mausoleum stammen, wo Alexander der Große lag"
+    ],
+    "thinking": "Gegenwartsverzerrung: Das Aktuelle für beispiellos halten",
+    "urls": [
+      "https://www.derstandard.at/story/3000000351400/hoor-al-qasimi-scheichtochter-als-kuratorin-der-venedig-biennale?ref=rss",
+      "https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective",
+      "https://de.euronews.com/2026/11/28/italien-setzt-auf-solarstrom-batterien-sollen-abends-gaskraftwerke-und-strompreise-bremsen",
+      "https://wissenschaft.de/artikel/alexandria-mausoleum-der-ptolemaeer-koenige-gefunden"
+    ]
+  },
+  {
     "date": "2026-11-27",
     "title": "Rechnen mit Licht und ein falsches Reptil",
     "domains": [
